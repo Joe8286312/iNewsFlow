@@ -1,0 +1,1949 @@
+{
+  "users": [
+    {
+      "username": "123",
+      "password": "123"
+    }
+  ],
+  "likesDB": {},
+  "articleStore": {
+    "236172eda98b8dfbd5ee84aa0cf7cebba1f3af30": {
+      "id": "236172eda98b8dfbd5ee84aa0cf7cebba1f3af30",
+      "title": "Israel identifies the remains of one more hostage while 9 Palestinians are killed in Gaza City - AP News",
+      "summary": "Gaza's Health Ministry reports that more than 68,000 Palestinians have been killed in the Israel-Hamas war. The death toll has risen since the ceasefire began over a week ago. Many bodies have been found under rubble during recovery efforts. Meanwhile, Israel…",
+      "cover": "https://dims.apnews.com/dims4/default/f9dc025/2147483647/strip/true/crop/8464x4761+0+441/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F54%2Fec9b58b0fc1bdaa2abd443207c47%2Fa42506b5b02547019f082ae94bc6410c",
+      "publishedAt": "2025-10-18T11:49:00Z",
+      "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-10-18-2025-4d13aaceec91c360449dd5fa737b192b",
+      "source": "Associated Press",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "114a88a5bceab929c57a9a4b5e895d475e4657a4": {
+      "id": "114a88a5bceab929c57a9a4b5e895d475e4657a4",
+      "title": "EVs are depreciating faster than gas-powered cars - Hacker News",
+      "publishedAt": "2025-10-18T10:58:57Z",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45615237",
+      "source": "Hacker News",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "027179967de5c7172deb45efc9017973eddf3116": {
+      "id": "027179967de5c7172deb45efc9017973eddf3116",
+      "title": "Barcelona in Miami: Oviedo and Espanyol players stage 15-second protest against La Liga - BBC",
+      "summary": "Oviedo and Espanyol players refuse to move for the first 15 seconds of their match on Friday as the teams stage a protest at La Liga's decision to host Villarreal against Barcelona in Miami.",
+      "cover": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c785/live/f1e00d70-ac02-11f0-9e2e-c1a3cc4b89bd.jpg",
+      "publishedAt": "2025-10-18T10:25:35Z",
+      "url": "https://www.bbc.com/sport/football/articles/cly2n8lplgno",
+      "source": "BBC News",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "6d7127019f6919b969d551af3db4f9bf88261cbc": {
+      "id": "6d7127019f6919b969d551af3db4f9bf88261cbc",
+      "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch - We Ain't Got No History",
+      "summary": "﻿﻿...as it happened: live blog, updates, highlights, lineups, comments, etc.",
+      "cover": "https://platform.weaintgotnohistory.sbnation.com/wp-content/uploads/sites/178/2025/10/gettyimages-2241765893.jpg?quality=90&strip=all&crop=0%2C8.6227442499407%2C100%2C82.754511500119&w=1200",
+      "publishedAt": "2025-10-18T10:20:58Z",
+      "url": "https://weaintgotnohistory.sbnation.com/premier-league/162985/nottingham-forest-vs-chelsea-premier-league-confirmed-lineups-how-to-watch",
+      "source": "SB Nation",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "09613d5318a4d1c52418b6caf22463b9b34b377d": {
+      "id": "09613d5318a4d1c52418b6caf22463b9b34b377d",
+      "title": "No Kings protests: What to expect at Saturday's marches around the country - NPR",
+      "summary": "This summer, organizers said more than 5 million people participated in No Kings protests against President Trump. Organizers say they expect an even bigger turnout this time around.",
+      "cover": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5599x3149+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F09%2F90672bf64ab9b32ae83256a01e73%2Fgettyimages-2220139650.jpg",
+      "publishedAt": "2025-10-18T10:01:00Z",
+      "url": "https://www.npr.org/2025/10/18/nx-s1-5577977/no-kings-protests-trump-marches",
+      "source": "NPR",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "4702887c8a4d1181f3435ae46e4b70a517a371b9": {
+      "id": "4702887c8a4d1181f3435ae46e4b70a517a371b9",
+      "title": "Penn State Coaching Search Hot Board 4.0 - 247Sports",
+      "summary": "Penn State football needs a new head coach after firing James Franklin Follow Lions247 for the latest coverage as the Nittany Lions search for a new leader",
+      "cover": "https://s3media.247sports.com/Uploads/Assets/761/346/13346761.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "publishedAt": "2025-10-18T09:50:04Z",
+      "url": "https://247sports.com/college/penn-state/longformarticle/penn-state-football-coaching-search-hot-board-curt-cignetti-pat-kraft-terry-smith-matt-rhole-urban-meyer-eli-drinkwitz-256620241/",
+      "source": "247Sports",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "592bb0baf3b4dbb8f1534567fc84400d431e55c2": {
+      "id": "592bb0baf3b4dbb8f1534567fc84400d431e55c2",
+      "title": "The UPS Chaos Shows Tariffs Have Finally Arrived on Our Doorsteps - Business Insider",
+      "summary": "Challenges at shipping services such as UPS show how tariffs can be tedious as well as costly for consumers.",
+      "cover": "https://i.insider.com/68f2647f1c1f80efbec5ca36?width=1200&format=jpeg",
+      "publishedAt": "2025-10-18T09:26:00Z",
+      "url": "https://www.businessinsider.com/ups-chaos-shows-tariffs-have-finally-arrived-on-our-doorsteps-2025-10",
+      "source": "Business Insider",
+      "categories": [
+        "business",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "business"
+    },
+    "ea6c0d661cfc96ed08c495ba732639c59b7bb1e2": {
+      "id": "ea6c0d661cfc96ed08c495ba732639c59b7bb1e2",
+      "title": "White House Fires Off Childish Insults Over Trump’s Putin Summit - The Daily Beast",
+      "summary": "The administration responds to legitimate requests for information with crass, playground-level retorts.",
+      "cover": "https://www.thedailybeast.com/resizer/v2/U43CSOUBY5CMBMXDQJKUZO25GM.jpg?smart=true&auth=5b1fc8ee66eccaee6645a0c05ecc535d22209e0bd39b9c72ff5dff6cfadb6f15&width=1200&height=630",
+      "publishedAt": "2025-10-18T07:40:00Z",
+      "url": "https://www.thedailybeast.com/white-house-fires-off-childish-insults-over-trumps-putin-summit/",
+      "source": "Daily Beast",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "0e5958b02fce27b726855513f7b34492704e2c4e": {
+      "id": "0e5958b02fce27b726855513f7b34492704e2c4e",
+      "title": "Belichick’s North Carolina tenure hit by heartbreaking loss to Cal after late fumble - AP News",
+      "summary": "Bill Belichick's tenure at North Carolina has been challenging, with the team still seeking its first victory against a power opponent. The Tar Heels suffered a heartbreaking 21-18 loss to California on Friday night. Nathan Leacock's fumble at the goal line l…",
+      "cover": "https://dims.apnews.com/dims4/default/e9eed17/2147483647/strip/true/crop/2548x1433+0+133/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2Fd3%2Fd750a5a8b98f38e151edd322b482%2F5a3ec32a19254b2393edb8d4032d615f",
+      "publishedAt": "2025-10-18T07:29:00Z",
+      "url": "https://apnews.com/article/north-carolina-bill-belichick-1adc91b15293a9d38dabe344f4f7e1e6",
+      "source": "Associated Press",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "9c543940d4f334f89160682c197360a5d920a8e7": {
+      "id": "9c543940d4f334f89160682c197360a5d920a8e7",
+      "title": "Third-floor balcony in Cincinnati collapses, sending 10 people to the hospital - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Officials say a balcony on the third floor of a building near the University of Cincinnati has collapsed, sending 10 people to the hospital",
+      "cover": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-18T07:10:02Z",
+      "url": "https://abcnews.go.com/US/wireStory/floor-balcony-cincinnati-collapses-sending-10-people-hospital-126639196",
+      "source": "ABC News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "2b9eb71adbf46df2d39800fb70cd95fade120bf6": {
+      "id": "2b9eb71adbf46df2d39800fb70cd95fade120bf6",
+      "title": "3 Best Dividend Stocks to Buy Now, 10/18/2025, According to Analysts - TipRanks",
+      "summary": "Dividend-paying stocks are a great way to generate passive income and can be considered a safe bet in the current uncertain market situation. Furthermore, these sto...",
+      "cover": "https://blog.tipranks.com/wp-content/uploads/2025/10/dividens-750x406.jpg",
+      "publishedAt": "2025-10-18T06:07:01Z",
+      "url": "https://www.tipranks.com/news/3-best-dividend-stocks-to-buy-now-10-18-2025-according-to-analysts",
+      "source": "Tipranks.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "58d62930d98ce606852786e2796b1abc8e53d73a": {
+      "id": "58d62930d98ce606852786e2796b1abc8e53d73a",
+      "title": "Over 60 South Koreans repatriated from Cambodia over alleged scams - BBC",
+      "summary": "The returnees have been arrested by Seoul authorities as they are accused of committing crimes while being detained in Cambodia.",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/f5ce/live/41de51e0-abd8-11f0-a234-21132c44e450.png",
+      "publishedAt": "2025-10-18T05:20:05Z",
+      "url": "https://www.bbc.com/news/articles/c8drqm4mqpno",
+      "source": "BBC News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "1a2e8959e882e1cb64db6271b5878b8349de920f": {
+      "id": "1a2e8959e882e1cb64db6271b5878b8349de920f",
+      "title": "Mariners fans reeling after monster home runs clinch Game 5 ALCS win - KOMO",
+      "summary": "Postseason baseball in the MLB is all about energy. Despite the Mariners lacking some of that after a two-game skid at home, fans were brought to life in the mo",
+      "cover": "https://komonews.com/resources/media2/16x9/638/986/10x0/90/93309c68-7f26-41a9-9947-9a1ad8a8a132-4.png",
+      "publishedAt": "2025-10-18T05:04:02Z",
+      "url": "https://komonews.com/news/local/seattle-mariners-american-league-championship-series-alcs-major-league-baseball-eugenio-suarez-game-5-mlb-t-mobile-park-home-game-toronto-blue-jays",
+      "source": "KOMO News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "76365ee076fe945884504df67a86e95cf7778862": {
+      "id": "76365ee076fe945884504df67a86e95cf7778862",
+      "title": "Horoscope for Saturday, October 18, 2025 - Chicago Sun-Times",
+      "cover": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2025-10-18T05:01:00Z",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/10/18/horoscopes-today-saturday-october-18-2025",
+      "source": "Suntimes.com",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "57f78f2fe6666b48ac0ef7ece12ba32f9b2b67a2": {
+      "id": "57f78f2fe6666b48ac0ef7ece12ba32f9b2b67a2",
+      "title": "China Officials Try to Ease Global Concern Over Rare Earth Curbs - Bloomberg.com",
+      "summary": "Chinese officials tried to ease concerns over its shock escalation of rare earth curbs while traveling in Washington, attempting to soften an international backlash while trade negotiations with the US proceed.",
+      "cover": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLCT1OsHoc9o/v0/1200x801.jpg",
+      "publishedAt": "2025-10-18T05:00:00Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-18/china-officials-try-to-ease-global-concern-over-rare-earth-curbs",
+      "source": "Bloomberg",
+      "categories": [
+        "business",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "business"
+    },
+    "e000b6bc7b3f432c0b90694c5d8c95345b5a8ebf": {
+      "id": "e000b6bc7b3f432c0b90694c5d8c95345b5a8ebf",
+      "title": "Exclusive: Nvidia and TSMC unveil first Blackwell chip wafer made in U.S. - Axios",
+      "summary": "The milestone represents some of the first fruits of the Trump administration's push to build AI technology domestically.",
+      "cover": "https://images.axios.com/bpwJHBTIpKr0SAjrpomrNeoMsvE=/0x314:3000x2002/1366x768/2025/10/17/1760743268262.jpeg",
+      "publishedAt": "2025-10-18T04:57:20Z",
+      "url": "https://www.axios.com/2025/10/17/nvidia-tsmc-blackwell-wafer-arizona",
+      "source": "Axios",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "d74a19ae5b838a29602dcef66cf3ca541874eef3": {
+      "id": "d74a19ae5b838a29602dcef66cf3ca541874eef3",
+      "title": "Trump commutes sentence of former US Rep. George Santos in federal fraud case - AP News",
+      "summary": "President Donald Trump has commuted the sentence of former U.S. Rep. George Santos, who was slated to serve more than seven years in federal prison after pleading guilty to fraud and identity theft charges. One of Santos’ lawyers told the New York Post late F…",
+      "cover": "https://dims.apnews.com/dims4/default/b1d0785/2147483647/strip/true/crop/3358x1889+0+176/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F14%2F24c0214314fb0bbf8575898570f9%2F586c3c8c909d43e8a0c779bf9a963422",
+      "publishedAt": "2025-10-18T04:52:00Z",
+      "url": "https://apnews.com/article/trump-george-santos-commutation-pardon-8ae46d6351cefe01d79f74920521b7a2",
+      "source": "Associated Press",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "c371a01267aac564dd6bea096651f97c79d0ef3b": {
+      "id": "c371a01267aac564dd6bea096651f97c79d0ef3b",
+      "title": "USPS hiring workers across Los Angeles County - KTLA",
+      "summary": "Those looking for a new job can join the United States Postal Service as the agency looks to hire workers for the holiday season and beyond. The USPS will be hiring for permanent and temporary positions located in offices throughout Los Angeles County. The ro…",
+      "cover": "https://ktla.com/wp-content/uploads/sites/4/2020/08/GettyImages-1168264328.jpg?w=1280",
+      "publishedAt": "2025-10-18T04:51:19Z",
+      "url": "https://ktla.com/news/local-news/usps-hiring-workers-across-los-angeles-county/",
+      "source": "KTLA Los Angeles",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "64c4822522e5b88882adb5dfa5514bc0f7d8d756": {
+      "id": "64c4822522e5b88882adb5dfa5514bc0f7d8d756",
+      "title": "Blue Jays manager criticizes Mariners fans: 'Not the right thing to do' - The Seattle Times",
+      "summary": "Blue Jays manager John Schneider felt the reactions in the crowd Friday night went too far when George Springer was hit on the knee and forced to leave the game.",
+      "cover": "https://images.seattletimes.com/wp-content/uploads/2025/10/10172025_tzr_tzr_211037.jpg?d=1200x630",
+      "publishedAt": "2025-10-18T04:15:37Z",
+      "url": "https://www.seattletimes.com/sports/mariners/blue-jays-manager-criticizes-mariners-fans-for-cheering-after-george-springer-injury/",
+      "source": "The Seattle Times",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "f7fc74b0b754f79e4cd41e932c50a64ff5b0e68a": {
+      "id": "f7fc74b0b754f79e4cd41e932c50a64ff5b0e68a",
+      "title": "Cowboys Expected To Explore Splash Trade - ProFootballRumors.com",
+      "summary": "The Cowboys' 2-3-1 start to the 2025 season has not deterred owner and de facto general manager Jerry Jones from signaling...",
+      "cover": "https://cdn.profootballrumors.com/files/2023/04/USATSI_19677671-1024x706.jpg",
+      "publishedAt": "2025-10-18T04:04:00Z",
+      "url": "https://www.profootballrumors.com/2025/10/cowboys-expected-to-explore-splash-trade-addition",
+      "source": "profootballrumors.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "9c2b7e1ac7e9df104b6ea06283a2d662a953e649": {
+      "id": "9c2b7e1ac7e9df104b6ea06283a2d662a953e649",
+      "title": "Alaska storm damage could displace some evacuees for at least 18 months, officials say - CBS News",
+      "summary": "Anchorage leaders said Friday they expect as many as 1,600 people to be evacuated to the state's largest city.",
+      "cover": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/18/0bc975ee-f9af-4f9f-be25-292752b76c34/thumbnail/1200x630/ef40614344e58aaa3afd5b335117dafc/gettyimages-2240879224.jpg",
+      "publishedAt": "2025-10-18T03:43:18Z",
+      "url": "https://www.cbsnews.com/news/alaska-storm-damage-displace-evacuees-18-months/",
+      "source": "CBS News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "6a1a6059a6a4b44134c630f69e4484b5bb8eae82": {
+      "id": "6a1a6059a6a4b44134c630f69e4484b5bb8eae82",
+      "title": "Gophers deliver a complete performance in sixth straight win over Nebraska - Sports Illustrated",
+      "summary": "Minnesota put it all together on Friday night to knock off the 25th-ranked Cornhuskers.",
+      "cover": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4472,h_2515,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_gophers/01k7tk05akxkp2wh4b0k.jpg",
+      "publishedAt": "2025-10-18T03:19:52Z",
+      "url": "https://www.si.com/college/minnesota/gophers-football/gophers-deliver-a-complete-performance-in-sixth-straight-win-over-nebraska",
+      "source": "Sports Illustrated",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "b246bb3f100880b9f1f077ef02ba6452c65a917d": {
+      "id": "b246bb3f100880b9f1f077ef02ba6452c65a917d",
+      "title": "Mariners’ Bryan Woo makes sure T-Mobile Park return is memorable - The Seattle Times",
+      "summary": "After being sidelined nearly a month by a pectoral strain, Bryan Woo made his return, throwing two innings of relief in the Mariners’ 6-2 ALCS win over Toronto.",
+      "cover": "https://images.seattletimes.com/wp-content/uploads/2025/10/10172025_Woo-Note_tzr_190613.jpg?d=1200x630",
+      "publishedAt": "2025-10-18T02:53:35Z",
+      "url": "https://www.seattletimes.com/sports/mariners/alcs-mariners-bryan-woo-felt-great-in-return-from-injury/",
+      "source": "The Seattle Times",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "04b0922aafd458f78399cc2e40cdaee55c8e4d2f": {
+      "id": "04b0922aafd458f78399cc2e40cdaee55c8e4d2f",
+      "title": "Trump says he wants to end Ukraine war without sending Tomahawk missiles - Axios",
+      "summary": "\"I've been played all my life by the best of them and I came out really well,\" Trump said, referring to Putin.",
+      "cover": "https://images.axios.com/mGspB3J4gf5t7XDxl-zgyi50GhA=/0x108:4000x2358/1366x768/2025/10/17/1760725808086.jpeg",
+      "publishedAt": "2025-10-18T02:50:38Z",
+      "url": "https://www.axios.com/2025/10/17/zelensky-trump-meeting-tomahawks-end-ukraine-war",
+      "source": "Axios",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "d7b7db462d6cbb0216a4cd89dcadc50638220224": {
+      "id": "d7b7db462d6cbb0216a4cd89dcadc50638220224",
+      "title": "Louisville football stuns No. 2 Miami, continues win streak at Hard Rock Stadium - The Courier-Journal",
+      "summary": "After having never won at Miami, Louisville football recorded its second straight road win vs. the Hurricanes on Friday night at Hard Rock Stadium.",
+      "cover": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2025/10/18/PLOU/86757444007-usatsi-27347957.jpg?crop=5596,3148,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2025-10-18T02:26:15Z",
+      "url": "https://www.courier-journal.com/story/sports/college/louisville/2025/10/17/louisville-football-miami-acc-standings-jeff-brohm/86357415007/",
+      "source": "Courier Journal",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "9ed63fbf6edff68d0305a73039013035755e3f27": {
+      "id": "9ed63fbf6edff68d0305a73039013035755e3f27",
+      "title": "Deleted NFL Films video about Brian Branch angers Lions - NBC Sports",
+      "summary": "Multiple players take issue with league's decision to criticize Branch.",
+      "cover": "https://nbcsports.brightspotcdn.com/dims4/default/ace4349/2147483647/strip/true/crop/2026x1140+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Faa%2F0f6c70e04c58bb25640b0d2c6227%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27312289",
+      "publishedAt": "2025-10-18T02:05:43Z",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deleted-nfl-films-video-about-brian-branch-angers-lions",
+      "source": "NBCSports.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "8e334cce9338f4d2b4ae0cccc72d57c3cd7a89b6": {
+      "id": "8e334cce9338f4d2b4ae0cccc72d57c3cd7a89b6",
+      "title": "Duke Roufus, famed coach and former kickboxer, dies at 55 years old - MMA Fighting",
+      "summary": "Duke Roufus trained numerous high-profile fighters out of his gym in Wisconsin",
+      "cover": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-631706046.jpg?quality=90&strip=all&crop=0%2C9.7146769755058%2C100%2C78.799798017381&w=1200",
+      "publishedAt": "2025-10-18T02:02:00Z",
+      "url": "https://www.mmafighting.com/ufc/450514/duke-roufus-famed-coach-and-former-kickboxer-dies-at-55-years-old",
+      "source": "MMA Fighting",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "7f9cc27da5de9f8caec681132b1b9fc9aaa356cc": {
+      "id": "7f9cc27da5de9f8caec681132b1b9fc9aaa356cc",
+      "title": "Masterful, dominant display in all three zones against Minnesota: Capitals beat Wild 5-1 - RMNB",
+      "summary": "The Washington Capitals hosted the Minnesota Wild at Capital One Arena on Friday night, the first of two meetings between the clubs…",
+      "cover": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2025/10/capitals-wild-1-101725.jpg?fit=1200%2C800&ssl=1&original",
+      "publishedAt": "2025-10-18T01:44:19Z",
+      "url": "https://russianmachineneverbreaks.com/2025/10/17/masterful-dominant-display-in-all-three-zones-against-minnesota-capitals-beat-wild-5-1/",
+      "source": "Russian Machine Never Breaks",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "c7859caba189ccdec548095e0c3aad34baa0221c": {
+      "id": "c7859caba189ccdec548095e0c3aad34baa0221c",
+      "title": "Instant observations: Joel Embiid returns to action as Sixers stage dress rehearsal in preseason finale - PhillyVoice",
+      "summary": "The Sixers' preseason contest against the Minnesota Timberwolves on Friday was the most instructive exhibition the team has played in years. The reason: Joel Embiid.",
+      "cover": "https://media.phillyvoice.com/media/images/USATSI_27347481.47373d12.fill-1200x630-c0.jpg",
+      "publishedAt": "2025-10-18T01:24:07Z",
+      "url": "https://www.phillyvoice.com/sixers-news-analysis-vs-timberwolves-box-score-highlights-stats-joel-embiid-injury-update-vj-edgecombe-debut/",
+      "source": "PhillyVoice.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "be285df43fea64caa607def55efc06b6e487603e": {
+      "id": "be285df43fea64caa607def55efc06b6e487603e",
+      "title": "Salesforce CEO Marc Benioff apologises for San Francisco deployment remark - BBC",
+      "summary": "Salesforce boss and Time Magazine owner Marc Benioff posted the apology on X following days of backlash",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/5579/live/f454e930-abae-11f0-ba75-093eca1ac29b.jpg",
+      "publishedAt": "2025-10-18T01:12:06Z",
+      "url": "https://www.bbc.com/news/articles/clykvypl9gxo",
+      "source": "BBC News",
+      "categories": [
+        "business",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "business"
+    },
+    "abb8159df8803561ad0078e71f45580275d08b9f": {
+      "id": "abb8159df8803561ad0078e71f45580275d08b9f",
+      "title": "ALCS, 3-2: Chart - Lookout Landing",
+      "summary": "I’m not crying. You’re crying.",
+      "cover": "https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/10/gettyimages-2241305447.jpg?quality=90&strip=all&crop=0%2C10.736056108551%2C100%2C78.527887782899&w=1200",
+      "publishedAt": "2025-10-18T01:11:00Z",
+      "url": "https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart",
+      "source": "Lookout Landing",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e5719927a1ca59459d6e5a4282364959d80d6bbe": {
+      "id": "e5719927a1ca59459d6e5a4282364959d80d6bbe",
+      "title": "Denise Richard’s ex Aaron Phypers arrested in courthouse for spousal abuse during trial - The National Desk",
+      "summary": "Denise Richards’ ex-husband, Aaron Phypers, has been arrested in a Los Angeles courtroom during a hearing for Richards' restraining order against him.",
+      "cover": "https://thenationaldesk.com/resources/media2/16x9/4306/986/595x145/90/15227389-2c30-4c96-ae40-fdfce6ed7634-GettyImages1483105573.jpg",
+      "publishedAt": "2025-10-18T00:50:15Z",
+      "url": "https://thenationaldesk.com/news/entertainment/denise-richards-ex-aaron-phypers-arrested-in-courthouse-for-spousal-abuse-during-trial",
+      "source": "Thenationaldesk.com",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "aa3c8b2240b69986c3335e68539482eec9beac31": {
+      "id": "aa3c8b2240b69986c3335e68539482eec9beac31",
+      "title": "Eagles at Vikings: Final Injury Report - Daily Norseman",
+      "cover": "https://platform.dailynorseman.com/wp-content/uploads/sites/72/2025/10/imagn-27016508.jpg?quality=90&strip=all&crop=0%2C10.738127320791%2C100%2C78.523745358418&w=1200",
+      "publishedAt": "2025-10-18T00:32:00Z",
+      "url": "https://www.dailynorseman.com/minnesota-vikings-injuries/91905/eagles-at-vikings-final-injury-report",
+      "source": "Daily Norseman",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "76a8209f5e062bd1aa263a66d5cb5f37b9f07926": {
+      "id": "76a8209f5e062bd1aa263a66d5cb5f37b9f07926",
+      "title": "Facebook’s new button lets its AI look at photos you haven’t uploaded yet - The Verge",
+      "summary": "Meta’s Facebook rolled out an AI editing feature that edits your phone’s camera roll — and trains its AI.",
+      "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK043_VRG_Illo_N_Barclay_5_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-18T00:15:00Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll",
+      "source": "The Verge",
+      "categories": [
+        "tech",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "tech"
+    },
+    "0007508b495f8551e9ca4e5b0590f8e43eff9d16": {
+      "id": "0007508b495f8551e9ca4e5b0590f8e43eff9d16",
+      "title": "Taylor Swift Donates $100,000 to Young Fan Battling Cancer Who Calls Star ‘My Friend’ - Rolling Stone",
+      "summary": "Taylor Swift made the large donation to a family who has shared their daughter's cancer journey (and love for Swift's music) on TikTok.",
+      "cover": "https://www.rollingstone.com/wp-content/uploads/2025/10/taylor-swift-donation.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2025-10-18T00:09:18Z",
+      "url": "http://www.rollingstone.com/music/music-news/taylor-swift-donates-100k-fan-battling-cancer-1235449908/",
+      "source": "Rolling Stone",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "47014a477cc829f19b83bb6e2bfb3caefebdd18a": {
+      "id": "47014a477cc829f19b83bb6e2bfb3caefebdd18a",
+      "title": "Dhanteras: Why India's Diwali gold rush is different this year - BBC",
+      "summary": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
+      "publishedAt": "2025-10-17T23:44:09Z",
+      "url": "https://www.bbc.com/news/articles/c3vnk3w0z69o",
+      "source": "BBC News",
+      "categories": [
+        "business",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "business"
+    },
+    "d404884bcf23a4427bd0826d3575c96da0520726": {
+      "id": "d404884bcf23a4427bd0826d3575c96da0520726",
+      "title": "How to watch the Orionid meteor shower, debris of Halley's comet - KSL.com",
+      "summary": "The Orionid meteor shower peaks this year with the arrival of a new moon, offering a rare chance to see shooting stars without moonlight interference. Here's how to watch it.",
+      "cover": "https://img.ksl.com/slc/3114/311409/31140931.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2025-10-17T23:13:42Z",
+      "url": "https://www.ksl.com/article/51391630/how-to-watch-the-orionid-meteor-shower-debris-of-halleys-comet",
+      "source": "KSL.com",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "f26d431d8ce7871054c7e15027d22096c308e0e5": {
+      "id": "f26d431d8ce7871054c7e15027d22096c308e0e5",
+      "title": "Joe Flacco now holds the regular-season edge over Mike Tomlin - NBC Sports",
+      "summary": "No, Steelers coach Mike Tomlin didn't want to face Joe Flacco again.",
+      "cover": "https://nbcsports.brightspotcdn.com/dims4/default/b9af8e0/2147483647/strip/true/crop/4097x2305+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F30%2F75a57746470e8d3362ad3475bd6f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2241102029",
+      "publishedAt": "2025-10-17T23:01:46Z",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-now-holds-the-regular-season-edge-over-mike-tomlin",
+      "source": "NBCSports.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "36dcf3ff4c5be851a549b5cde9493e7dffe83733": {
+      "id": "36dcf3ff4c5be851a549b5cde9493e7dffe83733",
+      "title": "George Kittle Active, Brock Purdy OUT vs. Falcons; Injury Report Ahead of #ATLvsSF - San Francisco 49ers",
+      "summary": "The San Francisco 49ers released their latest injury updates headed into the Week 7 contest versus the Atlanta Falcons.",
+      "cover": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/lkgzeold2rqwcoblfbhs",
+      "publishedAt": "2025-10-17T23:00:24Z",
+      "url": "https://www.49ers.com/news/george-kittle-active-brock-purdy-out-vs-falcons-injury-report-ahead-of-atlvssf",
+      "source": "49ers.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "3e29bdfc1f551bf925a43c9e4604de4fa384433c": {
+      "id": "3e29bdfc1f551bf925a43c9e4604de4fa384433c",
+      "title": "Verstappen beats Norris to Sprint pole in Austin - Formula 1",
+      "summary": "Max Verstappen has taken pole position for the Sprint at the United States Grand Prix, the Dutchman putting in a stunning lap during the final moments of Sprint Qualifying to beat both McLaren cars.",
+      "cover": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000000/fom-website/2025/United%20States%20(Austin)/GENERAL%20CROP%20-%202025-10-17T232827.753.webp",
+      "publishedAt": "2025-10-17T22:52:57Z",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-and-piastri-to-pole-during-thrilling-sprint.2k4RbPhpuYVB21GcJx7Eb5",
+      "source": "Formula 1",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "930f85e034fd069e125b0f0efd4f5bcd00b69a10": {
+      "id": "930f85e034fd069e125b0f0efd4f5bcd00b69a10",
+      "title": "France Gets Debt Warning as S&P Downgrades in Unscheduled Move - Bloomberg.com",
+      "summary": "S&amp;P Global Ratings downgraded France, dealing another blow to the country’s credibility as a weakened minority government struggles to pass legislation to tackle a swelling debt burden.",
+      "cover": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifJcdVmHvTg4/v0/1200x800.jpg",
+      "publishedAt": "2025-10-17T22:27:28Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-17/france-s-gets-debt-warning-as-s-p-downgrades-in-unscheduled-move",
+      "source": "Bloomberg",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "d19baae8653ea9e9482038e9909c71a009d5f10f": {
+      "id": "d19baae8653ea9e9482038e9909c71a009d5f10f",
+      "title": "The US has a new roadmap for fusion energy, without the funds to back it up - The Verge",
+      "summary": "The Trump administration released a roadmap to deploy the first generation of nuclear fusion power plants, but it still faces a lot of obstacles.",
+      "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1448790394.jpg?quality=90&strip=all&crop=0%2C10.73652856756%2C100%2C78.52694286488&w=1200",
+      "publishedAt": "2025-10-17T22:21:39Z",
+      "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
+      "source": "The Verge",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "184129244631157a1bb5f8b672baf09cf8ce5120": {
+      "id": "184129244631157a1bb5f8b672baf09cf8ce5120",
+      "title": "Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything",
+      "summary": "Plants vs. Zombies: Replanted accidentally leaks a few days before launch, and fans have come across various concerning issues.",
+      "cover": "https://nintendoeverything.com/wp-content/uploads/Plants-vs.-Zombies-Replanted-leak-issues.jpg",
+      "publishedAt": "2025-10-17T22:04:57Z",
+      "url": "https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/",
+      "source": "Nintendoeverything.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e4e95fc6a0f328f5c5e6c1975d4f03ce5feeede0": {
+      "id": "e4e95fc6a0f328f5c5e6c1975d4f03ce5feeede0",
+      "title": "Guess which ocean-obsessed filmmaker was redacted from Titan submersible investigation - AV Club",
+      "summary": "Guess which ocean-obsessed filmmaker was redacted from Titan submersible investigation",
+      "cover": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/17162042/james-cameron-redacted-feature.jpg",
+      "publishedAt": "2025-10-17T21:37:00Z",
+      "url": "https://www.avclub.com/james-cameron-submersible-expert-redacted-investigation",
+      "source": "The A.V. Club",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "cbb752df5b776633f9095c84be413e9f7e46e2b8": {
+      "id": "cbb752df5b776633f9095c84be413e9f7e46e2b8",
+      "title": "How nervous are investors about the stock market? - BBC",
+      "summary": "As shares remain high, investors have been jumping at signs of trouble.",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/6d29/live/f1225470-ab8e-11f0-bcc1-4bb330842a95.jpg",
+      "publishedAt": "2025-10-17T21:35:37Z",
+      "url": "https://www.bbc.com/news/articles/cq502xl53xqo",
+      "source": "BBC News",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "1e2a146b2835809b78a7d721a62a5271f085716e": {
+      "id": "1e2a146b2835809b78a7d721a62a5271f085716e",
+      "title": "Trump asks Supreme Court to allow deployment of National Guard in Illinois - CBS News",
+      "summary": "President Trump's administration asked the Supreme Court on Friday to allow the deployment of National Guard members in Illinois.",
+      "cover": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/17/3b502780-7f3c-4e18-b7ef-95db491bc58c/thumbnail/1200x630/a585990f4ad4db382b5e0b0f962911c7/gettyimages-2240091773.jpg",
+      "publishedAt": "2025-10-17T21:32:00Z",
+      "url": "https://www.cbsnews.com/news/trump-supreme-court-national-guard-illinois-chicago/",
+      "source": "CBS News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "c90806a911edff291576121f3b446a263cda7ae5": {
+      "id": "c90806a911edff291576121f3b446a263cda7ae5",
+      "title": "Are Your Favorite Protein Powders and Shakes Safe from Lead? - NBC News",
+      "summary": "According to a new report, protein powders and shakes from some popular brands have high levels of lead and other metals. Find out which ones are impacted and what you can drink instead.",
+      "cover": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251016-protein-powder-mm-main-f5810e.jpg",
+      "publishedAt": "2025-10-17T21:12:06Z",
+      "url": "https://www.nbcnews.com/select/shopping/protein-powder-lead-rcna238161",
+      "source": "NBC News",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "f78bbca7d874fd36675bd5f8b7d0fbe7bf6e43ae": {
+      "id": "f78bbca7d874fd36675bd5f8b7d0fbe7bf6e43ae",
+      "title": "Tesla Holders Urged to Reject Musk’s $1 Trillion Pay Package - The Wall Street Journal",
+      "publishedAt": "2025-10-17T21:12:00Z",
+      "url": "https://www.wsj.com/business/autos/proxy-adviser-iss-urges-tesla-holders-to-reject-musk-1-trillion-pay-package-d7b4822c",
+      "source": "The Wall Street Journal",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "98cec9cfc4675d44d9bbb59a17086eb9e3616ed4": {
+      "id": "98cec9cfc4675d44d9bbb59a17086eb9e3616ed4",
+      "title": "5 Final Thoughts Ahead of Chargers-Colts in Week 7 - Chargers.com",
+      "summary": "Here are five key storylines to watch as the Chargers play the Colts on Sunday at SoFi Stadium",
+      "cover": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/chargers/p78r7hsoev29ectdka0l",
+      "publishedAt": "2025-10-17T21:05:47Z",
+      "url": "https://www.chargers.com/news/colts-game-preview-playoff-odds-2025",
+      "source": "Chargers.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "ffce3e1aca66bd24c80f0666f4ee09f24fec6e5d": {
+      "id": "ffce3e1aca66bd24c80f0666f4ee09f24fec6e5d",
+      "title": "Kevin O’Connell: Carson Wentz to Start for Vikings Against Eagles - Minnesota Vikings",
+      "cover": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/o4iwcf4sweqycpi88knh",
+      "publishedAt": "2025-10-17T21:01:29Z",
+      "url": "https://www.vikings.com/news/carson-wentz-starting-quarterback-kevin-oconnell-eagles-week-7",
+      "source": "Vikings.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "86bb8012b03bac3d3fccc1a64a884b355957da23": {
+      "id": "86bb8012b03bac3d3fccc1a64a884b355957da23",
+      "title": "Nick Saban: I was really shocked Tua Tagovailoa threw his teammates under the bus - NBC Sports",
+      "summary": "Nick Saban, who coached Dolphins quarterback Tua Tagovailoa at Alabama, didn't like the way Tagovailoa handled his frustration with the way teammates are missing team meetings.",
+      "cover": "https://nbcsports.brightspotcdn.com/dims4/default/7d1a4c2/2147483647/strip/true/crop/3900x2194+0+203/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2Fe9%2F9953d5c242be9f3216ad0b6869c6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F903291964",
+      "publishedAt": "2025-10-17T20:47:39Z",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-saban-i-was-really-shocked-tua-tagovailoa-threw-his-teammates-under-the-bus",
+      "source": "NBCSports.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "f40a7d9680903e71436efd24647fcd398f9f2ba5": {
+      "id": "f40a7d9680903e71436efd24647fcd398f9f2ba5",
+      "title": "Ferrari Just Built a New F40 Tribute as a One-Off - Road & Track",
+      "summary": "The \"architecture, chassis, and powertrain\" of a 296 GTB sit at the heart of this ultra-exclusive wedge.",
+      "cover": "https://hips.hearstapps.com/hmg-prod/images/m-ferrari-sc40-ext-1-47dc7a52-016c-42f0-ab8c-c86005b844f1-68f29d7d0b6b4.jpg?crop=1.00xw:0.662xh;0,0.157xh&resize=1200:*",
+      "publishedAt": "2025-10-17T20:45:00Z",
+      "url": "https://www.roadandtrack.com/news/a69076549/ferraris-296-f40-tribute/",
+      "source": "RoadandTrack.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "198f24c6263e3e1b36a49e46839e42d1a7cbd382": {
+      "id": "198f24c6263e3e1b36a49e46839e42d1a7cbd382",
+      "title": "As mortgage rates dip again, this is the No. 1 mortgage lender of October 2025 - MarketWatch",
+      "summary": "We analyzed “best mortgage lender” reviews on 9 financial sites to find which mortgage lenders were recommended most often",
+      "cover": "https://images.mktw.net/im-72395228/social",
+      "publishedAt": "2025-10-17T20:40:00Z",
+      "url": "https://www.marketwatch.com/picks/as-mortgage-rates-dip-again-this-is-the-no-1-mortgage-lender-of-october-2025-2c453306",
+      "source": "MarketWatch",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "492e435a3bb65e0864030e0e581db53973bc341f": {
+      "id": "492e435a3bb65e0864030e0e581db53973bc341f",
+      "title": "Paul Finebaum: Indiana’s $93 million Curt Cignetti deal is ‘how programs get in trouble’ - Awful Announcing",
+      "summary": "Paul Finebaum thinks Indiana just made a massive mistake by giving Curt Cignetti an eight-year, $93 million extension.",
+      "cover": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/10/sdsd.jpg",
+      "publishedAt": "2025-10-17T20:35:29Z",
+      "url": "https://awfulannouncing.com/espn/paul-finebaum-indiana-curt-cignetti-93-million-extension.html",
+      "source": "Awful Announcing",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "d530dbb19c4e98f14457df47040052fe4c6b6322": {
+      "id": "d530dbb19c4e98f14457df47040052fe4c6b6322",
+      "title": "Regarding Benioff's Trumpy Turn: Salesforce Was Pitching a 'Talent Acquisition' Contract to ICE - SFist",
+      "summary": "We need only follow the money to figure out what has turned the once-liberal-leaning Marc Benioff into a full-throated Trump supporter. And now we see that Salesforce was hoping to land a new contract helping ICE to expand its reach.",
+      "cover": "https://img.sfist.com/2025/10/benioff-dreamforce-2024-1.jpg",
+      "publishedAt": "2025-10-17T20:24:36Z",
+      "url": "https://sfist.com/2025/10/17/another-clue-about-marc-benioffs-trumpy-turn-salesforce-was-pitching-a-contract-to-ice/",
+      "source": "SFist",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "89e968bafe5ab8813eba84ce2257d2cb388ef8b6": {
+      "id": "89e968bafe5ab8813eba84ce2257d2cb388ef8b6",
+      "title": "Trump Pledges To Cut Obesity Drug Prices. Novo Nordisk, Eli Lilly Stocks Dive. - Investor's Business Daily",
+      "summary": "Novo Nordisk and Eli Lilly stocks slumped Friday after President Donald Trump said he would cut the price of obesity drugs.",
+      "cover": "https://www.investors.com/wp-content/uploads/2019/09/stock-NovoNordisk-02-shutter.jpg",
+      "publishedAt": "2025-10-17T20:23:00Z",
+      "url": "https://www.investors.com/news/technology/novo-nordisk-eli-lilly-stocks-trump-weight-loss-drugs-price/",
+      "source": "Investor's Business Daily",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "428946a5bb9c3faa32f4c4016267862928e8c13a": {
+      "id": "428946a5bb9c3faa32f4c4016267862928e8c13a",
+      "title": "Market Wrap: U.S. Stocks Finish the Trading Week in the Green - TipRanks",
+      "summary": "Investor fears appear to have subsided.",
+      "cover": "https://blog.tipranks.com/wp-content/uploads/2025/10/aaa-67-750x406.jpg",
+      "publishedAt": "2025-10-17T20:19:30Z",
+      "url": "https://www.tipranks.com/news/market-wrap-u-s-stocks-finish-the-trading-week-in-the-green",
+      "source": "Tipranks.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "56c2c4e3bf6ba29155e2a9e233b09e0996a5b3f3": {
+      "id": "56c2c4e3bf6ba29155e2a9e233b09e0996a5b3f3",
+      "title": "Joe Flacco Had a Comical Message for Aaron Rodgers After Balling Out in ‘Unc Bowl’ - Sports Illustrated",
+      "summary": "Thursday night’s game between the Aaron Rodgers-led Steelers and Joe Flacco-led Bengals turned into an unlikely shootout.",
+      "cover": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5430,h_3054,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k7sgetagrafw3g1kvm.jpg",
+      "publishedAt": "2025-10-17T20:18:29Z",
+      "url": "https://www.si.com/nfl/joe-flacco-comical-message-aaron-rodgers-balling-out-unc-bowl-steelers-bengals",
+      "source": "Sports Illustrated",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "6b718c9efbb96d3a6f9ad5ff98007e3e2cc1c766": {
+      "id": "6b718c9efbb96d3a6f9ad5ff98007e3e2cc1c766",
+      "title": "Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast - WIRED",
+      "summary": "The Bose QuietComfort Ultra get a rare discount until the end of the day.",
+      "cover": "https://media.wired.com/photos/68f27c6ac1e7317d086b3429/191:100/w_1280,c_limit/One%20of%20our%20Favorite%20Noise-Canceling%20Headphones%20is%20$100%20Off%20if%20you%20Act%20Fast.png",
+      "publishedAt": "2025-10-17T20:12:00Z",
+      "url": "https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/",
+      "source": "Wired",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "5dcb4b9b08811de6e7cac74bd0cbefa51653d751": {
+      "id": "5dcb4b9b08811de6e7cac74bd0cbefa51653d751",
+      "title": "Apple iPhone 17 Review - IGN",
+      "summary": "Apple's best entry-level iPhone in years.",
+      "cover": "https://assets-prd.ignimgs.com/2025/10/17/blogroll-jpg-1760730547584.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-17T20:08:44Z",
+      "url": "https://www.ign.com/articles/apple-iphone-17-review",
+      "source": "IGN",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "a513e40899327bc5b5ee9ab641d11e639e6b625e": {
+      "id": "a513e40899327bc5b5ee9ab641d11e639e6b625e",
+      "title": "Game status | Terry McLaurin ruled out vs. Cowboys - Washington Commanders",
+      "summary": "There was optimism that McLaurin, who has been dealing with a quad injury, could make his return this week when he practiced in a limited capacity on Wednesday. However, he did not participate on Thursday and was seen on the field without a helmet on Frid",
+      "cover": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/commanders/dco4wmtar3ku53z3s4ba",
+      "publishedAt": "2025-10-17T19:59:56Z",
+      "url": "https://www.commanders.com/news/game-status-commanders-cowboys-week-7",
+      "source": "Commanders.com",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "primaryCategory": "sports"
+    },
+    "6291902abb2e84e249cbd9aa50d29683aef2a111": {
+      "id": "6291902abb2e84e249cbd9aa50d29683aef2a111",
+      "title": "Customers sue over 'embarrassing' squeaky On Cloud shoes - BBC",
+      "summary": "Athletic shoe company On is facing a lawsuit from customers who claim that its sneakers produce annoying squeaks.",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/934d/live/b1270cf0-ab82-11f0-9dd5-0bcfdec15686.jpg",
+      "publishedAt": "2025-10-17T19:58:30Z",
+      "url": "https://www.bbc.com/news/articles/c803lzr87yno",
+      "source": "BBC News",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "542ee9855234b8c14e17aa45302a2872bf5b23ee": {
+      "id": "542ee9855234b8c14e17aa45302a2872bf5b23ee",
+      "title": "Regional banks’ bad loans spark concerns on Wall Street - AP News",
+      "summary": "Wall Street is concerned about the health of the nation’s regional banks, after a few of them wrote off bad loans to commercial customers in the last two weeks. Zions Bank, Western Alliance Bank, and Jefferies disclosed bad investments, causing their stocks t…",
+      "cover": "https://dims.apnews.com/dims4/default/42cd204/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F45%2F950e25f05f0e947f52b003b1c254%2F2c37e9c600c541fcbccbdd3afa0a2fc6",
+      "publishedAt": "2025-10-17T19:56:00Z",
+      "url": "https://apnews.com/article/zions-bank-jefferies-western-alliance-regional-banks-dea767e001efc43070d4ebcdcfc99fe0",
+      "source": "Associated Press",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "6ea066e98eec5e249879f9d333832d1ced63caf9": {
+      "id": "6ea066e98eec5e249879f9d333832d1ced63caf9",
+      "title": "One of Biden’s Most Disastrous Decisions Is Finally Coming Home to Roost - Slate",
+      "summary": "This is a bad time to give Trump de facto control of one of the most popular social media apps in history—and that’s exactly what Biden did.",
+      "cover": "https://compote.slate.com/images/7dc7d60d-329e-4225-a66a-26b2298afc88.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-10-17T19:37:00Z",
+      "url": "https://slate.com/technology/2025/10/tiktok-ban-biden-trump-conservatives-propaganda.html",
+      "source": "Slate Magazine",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "96bead537db9a736ae6b8c3f97f39bed240046fe": {
+      "id": "96bead537db9a736ae6b8c3f97f39bed240046fe",
+      "title": "Two Drinks with. . . the Guy Who Gets Wall Street - The Free Press",
+      "summary": "Andrew Ross Sorkin wanted to meet Joe Nocera at the bar where one of the most famous speculators of all time shot himself. How could he refuse?",
+      "cover": "https://substackcdn.com/image/fetch/$s_!FoNj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdc94b0d-a077-4815-882b-8707f69b084e_1600x1905.heic",
+      "publishedAt": "2025-10-17T19:34:08Z",
+      "url": "https://www.thefp.com/p/two-drinks-with-the-guy-who-gets-wall-street-andrew-ross-sorkin",
+      "source": "Thefp.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "0d910780d252990ef3d4cbf33d9a35106472eb1d": {
+      "id": "0d910780d252990ef3d4cbf33d9a35106472eb1d",
+      "title": "Ally Arrives: Xbox President Sarah Bond Explains New Handhelds Steep Price, Prioritizing ‘Windows Experience’ and Next-Gen Console Plans Heading Into 2026 - Variety",
+      "summary": "Xbox president Sarah Bond discusses the release of Xbox's Ally handheld device, including the price set by Asus, and progress on next-gen consoles.",
+      "cover": "https://variety.com/wp-content/uploads/2025/06/Xbox-Ally.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-10-17T19:19:00Z",
+      "url": "https://variety.com/2025/gaming/news/xbox-ally-handheld-release-president-sarah-bond-interview-1236555575/",
+      "source": "Variety",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "4adfdced15a32333af681d9fe66cf6c4018562f1": {
+      "id": "4adfdced15a32333af681d9fe66cf6c4018562f1",
+      "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
+      "summary": "I upgraded to AirPods Pro 3 on day one, and my experience has been a little more complicated than I expected so far.",
+      "cover": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-17T19:13:00Z",
+      "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
+      "source": "9to5Mac",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "f21e593a9855f7df5769b35718a49ca3a838d29f": {
+      "id": "f21e593a9855f7df5769b35718a49ca3a838d29f",
+      "title": "How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot",
+      "summary": "Prove that you're a worthy trainer by catching Legendary Pokemon like Zygarde, Yveltal, and Xerneas in Pokemon Legends: Z-A.",
+      "cover": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4586655-pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-.jpg",
+      "publishedAt": "2025-10-17T18:53:26Z",
+      "url": "https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/",
+      "source": "GameSpot",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e7a5f13765da7ee34c529e0d4b824d7f729626e3": {
+      "id": "e7a5f13765da7ee34c529e0d4b824d7f729626e3",
+      "title": "Andrej Karpathy – It will take a decade to work through the issues with agents - Hacker News",
+      "publishedAt": "2025-10-17T17:45:06Z",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45619329",
+      "source": "Hacker News",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "2eae54bf1bfc323f29a4d138f448d21ae80126e6": {
+      "id": "2eae54bf1bfc323f29a4d138f448d21ae80126e6",
+      "title": "Battlefield 6 launch sales bigger than Call of Duty: Black Ops 6 across Europe - The Game Business",
+      "summary": "Huge launch for EA’s shooter, with an opening week four times bigger than Battlefield 5",
+      "cover": "https://substackcdn.com/image/fetch/$s_!ZCKK!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67630c62-55b9-4415-abaa-906040147ab6_2650x1458.png",
+      "publishedAt": "2025-10-17T17:39:02Z",
+      "url": "https://www.thegamebusiness.com/p/battlefield-6-launch-sales-bigger",
+      "source": "Thegamebusiness.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "516d611e5606714d7fbf2be61e990bbdf33b660c": {
+      "id": "516d611e5606714d7fbf2be61e990bbdf33b660c",
+      "title": "Windows 11 25H2 and 24H2 get even more dark mode improvements in new builds - Neowin",
+      "summary": "Microsoft has released two new Windows 11 preview builds with some useful changes, such as more dark mode improvements, Settings app tweaks, and more.",
+      "cover": "https://cdn.neowin.com/news/images/uploaded/2025/07/1752235216_10_story.webp",
+      "publishedAt": "2025-10-17T17:36:00Z",
+      "url": "https://www.neowin.net/news/windows-11-25h2-and-24h2-get-even-more-dark-mode-improvements-in-new-builds/",
+      "source": "Neowin",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "f6539122edf8883d36864efae2237fbfe55f206f": {
+      "id": "f6539122edf8883d36864efae2237fbfe55f206f",
+      "title": "As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity - Futurism",
+      "summary": "Microsoft wants you to ditch your old OS so you can try its new one stuffed with overbearing, if not invasive, AI features.",
+      "cover": "https://futurism.com/wp-content/uploads/2025/10/microsoft-windows-11-ai-controlled.jpg?w=1200",
+      "publishedAt": "2025-10-17T17:08:59Z",
+      "url": "https://futurism.com/artificial-intelligence/microsoft-windows-11-ai-controlled",
+      "source": "Futurism",
+      "categories": [
+        "tech",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e96132b2501f4014789ba0d65e9b3a9f91b185c8": {
+      "id": "e96132b2501f4014789ba0d65e9b3a9f91b185c8",
+      "title": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer",
+      "summary": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts.",
+      "cover": "https://assetsio.gnwcdn.com/arc-raiders-man-in-orange-suit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T16:09:18Z",
+      "url": "https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts",
+      "source": "Eurogamer.net",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "53a20a60924704794974fe5e7f262ff67e60145e": {
+      "id": "53a20a60924704794974fe5e7f262ff67e60145e",
+      "title": "Ghost Of Yōtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer",
+      "summary": "We spoke with Ghost Of Yōtei's co-director and lead writer for a spoiler-filled conversation about the game's many highlights.",
+      "cover": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/07/17/eb1289d5/ghost-of-yotei_state-of-play_mastering-the-blade_9.jpg.webp",
+      "publishedAt": "2025-10-17T16:06:02Z",
+      "url": "https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done",
+      "source": "Gameinformer.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "c882d988aff0a3426db038bc0e02944b421d54e4": {
+      "id": "c882d988aff0a3426db038bc0e02944b421d54e4",
+      "title": "Hearthstone and Warcraft Rumble developers unionize to combat 'instability and unfair conditions' - Game Developer",
+      "summary": "'The pressures we face are making it harder to create the high-quality work we care about.'",
+      "cover": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9ee829080fa438e6/68f1a1e7b6de6c288b3433fb/Hearthstone_Header_2.png?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2025-10-17T16:02:07Z",
+      "url": "https://www.gamedeveloper.com/business/hearthstone-and-warcraft-rumble-developers-unionize-to-combat-instability-and-unfair-conditions-",
+      "source": "Gamedeveloper.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "c2220fbfa21711c9092690d6e9d8e9792dcaacec": {
+      "id": "c2220fbfa21711c9092690d6e9d8e9792dcaacec",
+      "title": "After Teraleak returns, The Pokémon Company COO requests takedown of leaks from new games - Notebookcheck",
+      "summary": "The Pokémon Company is trying to stop the spread of images and data contained in the infamous Teraleak. On social media, Centro Leaks revealed plans for new Pokémon games until 2030. Despite copyright infringement risks, the social media presence defiantly re…",
+      "cover": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ThePokemonCompanyLogo.jpg",
+      "publishedAt": "2025-10-17T15:37:00Z",
+      "url": "https://www.notebookcheck.net/After-Teraleak-returns-The-Pokemon-Company-COO-requests-takedown-of-leaks-from-new-games.1140975.0.html",
+      "source": "Notebookcheck.net",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "38626f87dfa34810a70785f00a2d81b01500e9e9": {
+      "id": "38626f87dfa34810a70785f00a2d81b01500e9e9",
+      "title": "Absolum Surpasses 200,000 Sales In First Week; Physical Editions Now Available - Noisy Pixel",
+      "summary": "Supamonks and Dotemu’s beat ’em up roguelite Absolum has sold over 200,000 units in its first week, with new standard and collector’s physical editions now available.",
+      "cover": "https://noisypixel.net/wp-content/uploads/2025/10/absolum.png",
+      "publishedAt": "2025-10-17T15:19:12Z",
+      "url": "https://noisypixel.net/absolum-sales-milestone-physical-edition/",
+      "source": "Noisy Pixel",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "499068de868642854b9b9cc146080917d5d1a47c": {
+      "id": "499068de868642854b9b9cc146080917d5d1a47c",
+      "title": "Pokémon TCG Mega Evolution Triple Play: Powerful Mega Evolution Pokémon ex - Pokemon.com",
+      "summary": "Natalie, Tord, and Ross look at three Mega Evolution Pokémon ex that bring their might to the battlefield.",
+      "cover": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me01/triple-play/me01-triple-play-169-en.png",
+      "publishedAt": "2025-10-17T15:08:59Z",
+      "url": "https://www.pokemon.com/us/strategy/pokemon-tcg-mega-evolution-triple-play-powerful-mega-evolution-pokemon-ex",
+      "source": "Pokemon.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "be315fbf3206423aa92f64e16d8c993a93027879": {
+      "id": "be315fbf3206423aa92f64e16d8c993a93027879",
+      "title": "Pokémon Legends: Z-A’s Shiny Changes Let You Hunt While AFK - Kotaku",
+      "summary": "Shinies don’t despawn this time around, so if you’ve got a rubber band, you can farm while you make dinner",
+      "cover": "https://kotaku.com/app/uploads/2025/10/IMG_0066-1200x675.jpg",
+      "publishedAt": "2025-10-17T15:08:37Z",
+      "url": "https://kotaku.com/pokemon-legends-za-shiny-despawn-afk-exploit-wild-zone-2000636610",
+      "source": "Kotaku",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e751f1e3ea899f896b43a24fd49cc47861a764dd": {
+      "id": "e751f1e3ea899f896b43a24fd49cc47861a764dd",
+      "title": "Keeper: A Note from Its Creator on Launch Day - Xbox Wire",
+      "summary": "Keeper, the otherworld new adventure from Double Fine, arrives today - read a note from Creative Lead, Lee Petty, as his beautiful passion project arrives.",
+      "cover": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/Keeper_TitledHeroArt_1920x1080-dc7554cb030cad42f511.jpg",
+      "publishedAt": "2025-10-17T15:00:55Z",
+      "url": "https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/",
+      "source": "Xbox.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "140098f9e52e37e3af7022679d607e2d3ea0aece": {
+      "id": "140098f9e52e37e3af7022679d607e2d3ea0aece",
+      "title": "Early M5 MacBook Pro benchmarks show a big boost over the M4 - AppleInsider",
+      "summary": "What appears to be the first benchmark score for the new M5 MacBook Pro has appeared online, and it's fast.",
+      "cover": "https://photos5.appleinsider.com/gallery/65380-136838-Apple-MacBook-Pro-14-in-macOS-Tahoe-Apple-Intelligence-Rewrite-251015-xl.jpg",
+      "publishedAt": "2025-10-17T14:43:00Z",
+      "url": "https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4",
+      "source": "AppleInsider",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "dfdde4c1aae3e5d3d80c4aac16b5f394c6e07047": {
+      "id": "dfdde4c1aae3e5d3d80c4aac16b5f394c6e07047",
+      "title": "Can't sign up for Windows 10 security updates? Here's the fix - ZDNET",
+      "summary": "Microsoft will continue to provide security updates for Windows 10 through its ESU program, but signing up isn't always easy.",
+      "cover": "https://www.zdnet.com/a/img/resize/68d251c54a307f2f390a299000f4b213a5011605/2025/10/17/4285c669-1665-457e-acc1-93b4630e6ed8/gettyimages-512136635.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T14:25:00Z",
+      "url": "https://www.zdnet.com/article/cant-sign-up-for-windows-10-security-updates-heres-the-fix/",
+      "source": "ZDNet",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "3e4b7576c57ce4f3fe57a852d7d1dda59f7ad34c": {
+      "id": "3e4b7576c57ce4f3fe57a852d7d1dda59f7ad34c",
+      "title": "These AI glasses promised to make me smarter, and all I got was Clippy for my face - The Verge",
+      "summary": "Halo is a new AI glasses startup founded by two former Harvard students. It promises to make you smarter, but it ended up as more of a distraction.",
+      "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257896_Even_Realities_G1_AKrales_0105.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-17T14:00:00Z",
+      "url": "https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant",
+      "source": "The Verge",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "095e86d9c2aaf3e4877fbc722e0d21d0b157b6fe": {
+      "id": "095e86d9c2aaf3e4877fbc722e0d21d0b157b6fe",
+      "title": "Vampire: The Masquerade – Bloodlines 2 Should Have Stayed in the Coffin - CNET",
+      "summary": "Bloodlines 2 tries to revive a cult classic but ends up lifeless, drained of depth and style.",
+      "cover": "https://www.cnet.com/a/img/resize/04df1cbfbc88bdd7413ce6ba2152459ab2d1599d/hub/2025/10/16/eb602466-3248-44cc-a6ff-c5894735c28b/2-convo.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T13:24:00Z",
+      "url": "https://www.cnet.com/tech/gaming/vampire-the-masquerade-bloodlines-2-should-have-stayed-in-the-coffin/",
+      "source": "CNET",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "eb76a8b65b5d3825e4e94621a2ac7d99bbd7a41c": {
+      "id": "eb76a8b65b5d3825e4e94621a2ac7d99bbd7a41c",
+      "title": "Battlefield 6 developers U-turn on a multiplayer adjustment following community feedback - Eurogamer",
+      "summary": "Battlefield 6 developers U-Turn on a multiplayer adjustment following community feedback.",
+      "cover": "https://assetsio.gnwcdn.com/battlefield-6-headline_RXXqaEX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T13:12:15Z",
+      "url": "https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback",
+      "source": "Eurogamer.net",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "4cabe3b581bf06f96737a79f8f68503bd94cb0f2": {
+      "id": "4cabe3b581bf06f96737a79f8f68503bd94cb0f2",
+      "title": "AI can’t even turn on the lights - The Verge",
+      "summary": "Gemini, Siri, and Alexa are all making big bets on AI for virtual assistants, and so far it’s not working very well. The reason why, and more, on The Vergecast.",
+      "cover": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1017_Site.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-10-17T12:56:16Z",
+      "url": "https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast",
+      "source": "The Verge",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "5384fa878af0109544bc3a89861513870e17660b": {
+      "id": "5384fa878af0109544bc3a89861513870e17660b",
+      "title": "At $5,995, Is This 1992 Mercedes-Benz 300 SD Kind Of A Big Deal? - Jalopnik",
+      "summary": "This big diesel 'Benz provoked controversy with its equally-big price when it launched in the 90s, but has it aged gracefully?",
+      "cover": "https://www.jalopnik.com/img/gallery/at-5995-is-this-1992-mercedes-benz-300-sd-kind-of-a-big-deal/l-intro-1760626778.jpg",
+      "publishedAt": "2025-10-17T12:25:00Z",
+      "url": "https://www.jalopnik.com/1998608/1992-mercedes-benz-300-sd-5995-dollars-craigslist-nice-price/",
+      "source": "Jalopnik",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "169553d458eb6da7158caa9e8c02a6fceeda9dc1": {
+      "id": "169553d458eb6da7158caa9e8c02a6fceeda9dc1",
+      "title": "Ask HN: How does one build large front end apps without a framework like React? - Hacker News",
+      "publishedAt": "2025-10-17T11:22:34Z",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45615193",
+      "source": "Hacker News",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "170eb10f1cc1f05da9386db6044ce795dd519ab6": {
+      "id": "170eb10f1cc1f05da9386db6044ce795dd519ab6",
+      "title": "Battlefield 6 devs are finally doing something about its dreadful XP and attachment unlock rates, but you can say goodbye to Portal bot farms - VG247",
+      "summary": "Battlefield Studios has finally addressed what's been everyone's biggest problem with Battlefield 6, but it's not all good news.",
+      "cover": "https://assetsio.gnwcdn.com/battlefield-6-multiplayer-reveal-screen-14.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T10:09:13Z",
+      "url": "https://www.vg247.com/battlefield-6-progression-xp-boost-attachment-unlocks-dev-update",
+      "source": "VG247",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "4eb381c59b442d9384b72a5b63a0662a34774aee": {
+      "id": "4eb381c59b442d9384b72a5b63a0662a34774aee",
+      "title": "Everybody's roasting YouTube's new web design - Creative Bloq",
+      "summary": "But is it really that bad?",
+      "cover": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-650-80.jpg",
+      "publishedAt": "2025-10-17T07:36:34Z",
+      "url": "https://www.creativebloq.com/web-design/ux-ui/is-the-new-youtube-ui-design-really-that-bad",
+      "source": "Creative Bloq",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "07f4324fa03d94dd19183892e06adc4993b24052": {
+      "id": "07f4324fa03d94dd19183892e06adc4993b24052",
+      "title": "It’s the End of an Era for Xbox & Microsoft — Forever - Comic Book Resources",
+      "summary": "It appears that the era of Microsoft being a dominant player in the video game industry with their Xbox brand is coming to a close. Or is it?",
+      "cover": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/10/microsoft-keeps-breaking-their-promise-to-never-raise-game-pass-prices.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2025-10-17T04:45:00Z",
+      "url": "https://www.cbr.com/xbox-microsoft-end-of-era-ending/",
+      "source": "CBR - Comic Book Resources",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "386e8f66f9571ae05eb7556baf224b25847bbc35": {
+      "id": "386e8f66f9571ae05eb7556baf224b25847bbc35",
+      "title": "Samsung to Showcase Its First Ever Trifold Phone at APEC Summit - Bloomberg.com",
+      "summary": "Samsung Electronics Co. will unveil its highly-anticipated trifold smartphone when world leaders and global dignitaries gather at the Asia-Pacific Economic Cooperation summit in South Korea later this month.",
+      "cover": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWLCMsJCnuvw/v0/1200x800.jpg",
+      "publishedAt": "2025-10-17T04:30:00Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-17/samsung-to-showcase-its-first-ever-trifold-phone-at-apec-summit",
+      "source": "Bloomberg",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "55626aa6c2c9a6bec911eef20acaea266a3c9e2a": {
+      "id": "55626aa6c2c9a6bec911eef20acaea266a3c9e2a",
+      "title": "Speculative Meta Analysis of Legends Z-A Megas in Pokémon GO - Pokémon GO Hub",
+      "summary": "Pokémon Legends: Z-A is upon us, and we finally have a slew of new Megas in our midst, as well as a bunch of leaked Mega Evolutions for the DLC. This is an exciting period for the community, and the buzz is sure to reach new heights once these Megas arrive in…",
+      "cover": "https://pokemongohub.net/wp-content/uploads/2025/09/Mega-Chesnaught-Mega-Delphox-and-Mega-Greninja-Pokemon-Legends-Z-A-656x369-1.jpg",
+      "publishedAt": "2025-10-17T04:28:55Z",
+      "url": "https://pokemongohub.net/post/article/speculative-meta-analysis-of-legends-z-a-megas-in-pokemon-go/",
+      "source": "Pokemon GO Hub",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "fe5dcb57b90e5d6a5c89c2e43bc64e2456ff41b2": {
+      "id": "fe5dcb57b90e5d6a5c89c2e43bc64e2456ff41b2",
+      "title": "Jimmie Johnson Is The 8th Worst Driver In The NASCAR Cup Series, According To iRacing Studios - Jalopnik",
+      "summary": "NASCAR 25 centers on a robust single-player experience where the competitors are AI representations of real-life drivers.",
+      "cover": "https://www.jalopnik.com/img/gallery/jimmie-johnson-is-the-8th-worst-driver-in-the-nascar-cup-series-according-to-iracing-studios/l-intro-1760571982.jpg",
+      "publishedAt": "2025-10-17T04:25:00Z",
+      "url": "https://www.jalopnik.com/1998251/jimmie-johnson-8th-worst-nascar-driver-iracing-ranking/",
+      "source": "Jalopnik",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e3ba88d3ac08fbb28bfa687a9578d82c88c95021": {
+      "id": "e3ba88d3ac08fbb28bfa687a9578d82c88c95021",
+      "title": "'Wetware': Scientists Use Human Mini-brains To Power Computers - Barron's",
+      "cover": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+      "publishedAt": "2025-10-17T02:58:00Z",
+      "url": "https://www.barrons.com/articles/wetware-scientists-use-human-mini-brains-to-power-computers-3c33a55e",
+      "source": "Barron's",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "97eadc2f176a31002f82dde13f630d6a592ec095": {
+      "id": "97eadc2f176a31002f82dde13f630d6a592ec095",
+      "title": "Dead Space Creator Glen Schofield Thinks the Games Industry is “Broken, Beaten, and Battered” - IGN",
+      "summary": "Dead Space Creator Glen Schofield Thinks the Games Industry is “Broken, Beaten, and Battered” but he has a three-point plan to fix it.",
+      "cover": "https://assets-prd.ignimgs.com/2024/12/23/ds-1734951788399.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-17T01:50:23Z",
+      "url": "https://www.ign.com/articles/dead-space-creator-glen-schofield-thinks-the-games-industry-is-broken-beaten-and-battered",
+      "source": "IGN",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "dabc302a94ff7d8ca2b07308b0c4597803880f72": {
+      "id": "dabc302a94ff7d8ca2b07308b0c4597803880f72",
+      "title": "Icon elements inspired by the Splatoon games are here for a limited time! - Nintendo",
+      "summary": "Redeem My Nintendo Platinum points for game-themed user avatars. Check the Nintendo Switch Online app on your Nintendo Switch weekly to make sure you don't miss any icons.",
+      "cover": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "publishedAt": "2025-10-17T01:02:46Z",
+      "url": "https://www.nintendo.com/us/whatsnew/icon-elements-inspired-by-the-splatoon-games-are-here-for-a-limited-time-oct-2025/",
+      "source": "Nintendo.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "581aa491142fb8cf645d3aad3b8a974f0b072617": {
+      "id": "581aa491142fb8cf645d3aad3b8a974f0b072617",
+      "title": "Pokémon Legends: Z‑A Ranked Battles Season 1 Now Live, Reach 'Rank K' For A Special Reward - Nintendo Life",
+      "summary": "\"This item can't be obtained through normal gameplay\"",
+      "cover": "https://images.nintendolife.com/125f45ffa1eab/large.jpg",
+      "publishedAt": "2025-10-17T01:00:00Z",
+      "url": "https://www.nintendolife.com/news/2025/10/pokemon-legends-za-ranked-battles-season-1-now-live-reach-rank-k-for-a-special-reward",
+      "source": "Nintendo Life",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "ba738e0f6856ed50a99d4b1c0104149583c8a293": {
+      "id": "ba738e0f6856ed50a99d4b1c0104149583c8a293",
+      "title": "Anthropic brings mad Skills to Claude - theregister.com",
+      "summary": ": Teaching an old bot new tricks",
+      "cover": "https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg",
+      "publishedAt": "2025-10-16T23:55:00Z",
+      "url": "https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/",
+      "source": "Theregister.com",
+      "categories": [
+        "tech",
+        "news",
+        "world"
+      ],
+      "primaryCategory": "world"
+    },
+    "8c81f4ece5778b661eadc0faf929d532f7d7a572": {
+      "id": "8c81f4ece5778b661eadc0faf929d532f7d7a572",
+      "title": "Sony slams Tencent's defence of Horizon \"knock-off\" Light of Motiram, claiming \"the damage is done, and it continues\" - GamesIndustry.biz",
+      "summary": "Sony has dismissed Tencent's latest filing over its Horizon Zero Dawn copyright lawsuit as \"nonsense,\" insisting \"the d…",
+      "cover": "https://assetsio.gnwcdn.com/Light-of-Motiram-Screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-16T20:16:36Z",
+      "url": "https://www.gamesindustry.biz/sony-slams-tencents-defence-of-horizon-knock-off-light-of-motiram-claiming-the-damage-is-done-and-it-continues",
+      "source": "GamesIndustry.biz",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "7e68e285abbfb457f672d0b161da929fe6021219": {
+      "id": "7e68e285abbfb457f672d0b161da929fe6021219",
+      "title": "How to get the Kalos starters in Pokémon Legends: Z-A - Polygon",
+      "summary": "The Kalos starters, Chespin, Fennekin, and Froakie, are out and about in Pokémon Legends: Z-A. Here's where you can find them and how to get them.",
+      "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/kalos-starters_plza.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2025-10-16T19:56:00Z",
+      "url": "https://www.polygon.com/pokemon-legends-z-a-plza-kalos-starters-chespin-fennekin-froakie/",
+      "source": "Polygon",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "2c0088e82d62c75bef5b2dd1d087db660362e8ba": {
+      "id": "2c0088e82d62c75bef5b2dd1d087db660362e8ba",
+      "title": "Google and Yale's new AI just made a major cancer discovery - TechSpot",
+      "summary": "The hypothesis was generated by a 27-billion-parameter foundation model called Cell2Sentence-Scale 27B (C2S-Scale), developed by researchers at Google DeepMind and Yale University. Built on Google's open-source Gemma...",
+      "cover": "https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-16-image-18.jpg",
+      "publishedAt": "2025-10-16T16:29:00Z",
+      "url": "https://www.techspot.com/news/109888-google-yale-new-ai-made-major-cancer-discovery.html",
+      "source": "TechSpot",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "5e39d449c25b901f8c7293626423613fcbe1d4e3": {
+      "id": "5e39d449c25b901f8c7293626423613fcbe1d4e3",
+      "title": "Durability tester says Google's new $1,800 foldable phone is the first smartphone to explode during his routine test—and he caught it all on camera - Fortune",
+      "summary": "Zack Nelson from JerryRigEverything said he's never had a phone set off his fire alarm in the decade of durability testing smartphones.",
+      "cover": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2230409244.jpg?resize=1200,600",
+      "publishedAt": "2025-10-16T14:58:00Z",
+      "url": "https://fortune.com/2025/10/16/google-pixel-10-pro-fold-durability-test-jerryrigeverything-zack-nelson-folding-phone-explosion-video/",
+      "source": "Fortune",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "e9337192242d0bb303285a6cca15d9ff0d6409bf": {
+      "id": "e9337192242d0bb303285a6cca15d9ff0d6409bf",
+      "title": "Pokémon GO Level 1–80 Requirements and Rewards Guide - Pokémon GO Hub",
+      "summary": "Leveling up in Pokémon GO has never been more challenging or rewarding. With the new Level 80 cap, Trainers can now push beyond Level 70 and take on the toughest XP milestones and research tasks ever introduced. This Pokémon GO Level 1–80 Leveling Guide break…",
+      "cover": "https://pokemongohub.net/wp-content/uploads/2025/08/pokemon-go-level-80-v2.jpg",
+      "publishedAt": "2025-10-16T14:44:01Z",
+      "url": "https://pokemongohub.net/post/guide/pokemon-go-level-1-to-80-guide-xp-level-up-tasks-and-rewards/",
+      "source": "Pokemon GO Hub",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "a326a445e6747f45d8d9dc28a114706f49df5deb": {
+      "id": "a326a445e6747f45d8d9dc28a114706f49df5deb",
+      "title": "Apple suffers another AI setback as it loses key AI search leader to Meta - Sherwood News",
+      "summary": "Ke Yang took charge of Apple’s AI search features planned for a revamped Siri only a few weeks ago, adding to the exodus of AI talent from the company.",
+      "cover": "https://sherwoodnews.imgix.net/Screenshot%202025-09-10%20at%203.51.04%E2%80%AFPM.png?w=1600&auto=compress%2Cformat&cs=srgb",
+      "publishedAt": "2025-10-16T14:18:48Z",
+      "url": "https://sherwood.news/tech/apple-suffers-another-ai-setback-as-it-loses-key-ai-search-leader-to-meta/",
+      "source": "Sherwood.news",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "8076cf3eb03f56940aa361b0093d15fefc16d226": {
+      "id": "8076cf3eb03f56940aa361b0093d15fefc16d226",
+      "title": "Panasonic Brings Gorgeous Gold Lumix S9 to the US - PetaPixel",
+      "summary": "Who doesn't love gold?",
+      "cover": "https://petapixel.com/assets/uploads/2025/10/panasonic-lumix-s9-titanium-gold-featured.jpg",
+      "publishedAt": "2025-10-16T14:05:12Z",
+      "url": "https://petapixel.com/2025/10/16/panasonic-brings-gorgeous-gold-lumix-s9-to-the-us/",
+      "source": "PetaPixel",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "f62db97cb4d251c33cbeab155a736552048e444a": {
+      "id": "f62db97cb4d251c33cbeab155a736552048e444a",
+      "title": "ASUS ProArt 8K PA32KCX display launches this month – world’s first 8K HDR mini LED - VideoCardz.com",
+      "summary": "ASUS ProArt display 8K PA32KCX has 7680×4320 resolution, 32-inches and 60Hz refresh rate Not for gamers. Each time there’s news about 6K or 8K monitors, it brings back memories of the GeForce RTX 3090 marketing campaign, where high-profile YouTubers were task…",
+      "cover": "https://cdn.videocardz.com/1/2025/10/ASUS-PA32KCX-8K-MONITOR.jpg",
+      "publishedAt": "2025-10-16T13:15:00Z",
+      "url": "https://videocardz.com/newz/asus-proart-8k-pa32kcx-display-launches-this-month-worlds-first-8k-hdr-mini-led",
+      "source": "Videocardz.com",
+      "categories": [
+        "tech",
+        "news"
+      ],
+      "primaryCategory": "tech"
+    },
+    "ae8c46c4b56abe15d0e5ee7bad2a72784962083f": {
+      "id": "ae8c46c4b56abe15d0e5ee7bad2a72784962083f",
+      "title": "Gold prices rose to a new record high this week, topping $4,300. Here's why. - CBS News",
+      "summary": "The rush for gold continues as economic uncertainty deepens and anxious investors seek a safe haven for their money.",
+      "cover": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/10/6107813e-3e86-4512-b692-6235d6ba6c73/thumbnail/1200x630/b93412a8176f40e3dc6a9ce6164a984e/gettyimages-456856397.jpg",
+      "publishedAt": "2025-10-17T18:16:00Z",
+      "url": "https://www.cbsnews.com/news/gold-prices-high-whats-driving-surge/",
+      "source": "CBS News",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "ae9b0449940751b0601e6ad759f02b9ac33743bd": {
+      "id": "ae9b0449940751b0601e6ad759f02b9ac33743bd",
+      "title": "Gold Prices Continue to Break Records. How Much Higher Can They Climb? - Investopedia",
+      "summary": "Forecasters have struggled to keep pace with this year's gold price rally, and myriad factors remain in place for it to continue.",
+      "cover": "https://www.investopedia.com/thmb/ea3jZtbx59vKQcCVdiySaeL-M7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1243181530-cdfa55d3be594317a87db2ade1baf3ba.jpg",
+      "publishedAt": "2025-10-17T18:06:03Z",
+      "url": "https://www.investopedia.com/gold-prices-continue-to-break-records-how-much-higher-can-they-climb-11831908",
+      "source": "Investopedia",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "4a937a27843d2d3841b2a6db1cc4e17cbb7bfad0": {
+      "id": "4a937a27843d2d3841b2a6db1cc4e17cbb7bfad0",
+      "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime” - Ars Technica",
+      "summary": "Texas app law compared to checking IDs at bookstores and shopping malls.",
+      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
+      "publishedAt": "2025-10-17T17:55:19Z",
+      "url": "https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/",
+      "source": "Ars Technica",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "269702ca36b1825e713659b74927a77b7dd8ba1e": {
+      "id": "269702ca36b1825e713659b74927a77b7dd8ba1e",
+      "title": "Bank Stocks Get Hit by Dimon’s ‘Cockroach’ Hint. It’s Time to Buy. - Barron's",
+      "publishedAt": "2025-10-17T16:32:00Z",
+      "url": "https://www.barrons.com/articles/bank-stocks-buy-jamie-dimon-cockroach-f2374ee1",
+      "source": "Barron's",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "6f5ed973033ad55137fc9be7af777a4e6c25480c": {
+      "id": "6f5ed973033ad55137fc9be7af777a4e6c25480c",
+      "title": "Ford recalls nearly 625,000 vehicles. See impacted models. - USA Today",
+      "summary": "The car manufacturer recalled the vehicles, citing seat belt and rearview mirror camera issues.",
+      "cover": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/17/USAT/86746483007-20250416-t-213029-z-265636174-rc-20-zdase-4-fw-rtrmadp-3-autoshownewyork.JPG?crop=5123,2883,x0,y266&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2025-10-17T16:23:03Z",
+      "url": "https://www.usatoday.com/story/cars/recalls/2025/10/17/ford-recalls-vehicles-mustang-trucks/86744087007/",
+      "source": "USA Today",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "5eddb4ec5d9562cbd80de00d9ad258e0527ded1c": {
+      "id": "5eddb4ec5d9562cbd80de00d9ad258e0527ded1c",
+      "title": "Oracle Stock Falls Despite 'Very Strong Outlook.' Here's What Wall Street Is Saying. - Investor's Business Daily",
+      "summary": "Oracle stock was lower despite an analyst day where it increased its long-term sales outlook and touted demand for its cloud infrastructure.",
+      "cover": "https://www.investors.com/wp-content/uploads/2017/12/stock-Oracle-03-shutter.jpg",
+      "publishedAt": "2025-10-17T15:59:00Z",
+      "url": "https://www.investors.com/news/technology/oracle-stock-orcl-news-analyst-day-ai-outlook/",
+      "source": "Investor's Business Daily",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "e8dd65c21c4303c60f3cd33e1716a3fead402f97": {
+      "id": "e8dd65c21c4303c60f3cd33e1716a3fead402f97",
+      "title": "Sex is a big market for the AI industry. ChatGPT won’t be the first to try to profit from it - AP News",
+      "summary": "OpenAI has announced that ChatGPT will soon engage in \"erotica for verified adults.\" CEO Sam Altman says the company aims to allow more user freedom for adults while setting limits for teens. OpenAI isn't the first to explore sexualized AI, but previous attem…",
+      "cover": "https://dims.apnews.com/dims4/default/294ec61/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F3e%2Fe25a45d4ee0acd02b21a62b45f1f%2Fdc45c8aa40114c39aa3c4c84dc364693",
+      "publishedAt": "2025-10-17T15:05:00Z",
+      "url": "https://apnews.com/article/ai-erotica-chatgpt-openai-sam-altman-d52e00cedf34a8120af7af66981da295",
+      "source": "Associated Press",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "e0c88878b30106f1b06ed5e50e7d474814b1e258": {
+      "id": "e0c88878b30106f1b06ed5e50e7d474814b1e258",
+      "title": "Banks Stocks: Strong Earnings Can’t Paper Over Trouble Spots - Barron's",
+      "publishedAt": "2025-10-17T15:01:00Z",
+      "url": "https://www.barrons.com/articles/bank-stocks-earnings-bad-loans-jpmorgan-goldman-a5e109fd",
+      "source": "Barron's",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "b448971cc783892f7e6ae5294c03ab810b654c88": {
+      "id": "b448971cc783892f7e6ae5294c03ab810b654c88",
+      "title": "Immigration crackdown likely contributing to weak Texas job growth - Federal Reserve Bank of Dallas",
+      "summary": "Findings from the Dallas Fed Texas Business Outlook Surveys (TBOS) suggest immigration policy changes will negatively affect the ability to hire and retain foreign-born workers at one in five Texas businesses this year.",
+      "cover": "https://www.dallasfed.org/-/media/Images/research/swe/2025/2515/workers-exiting-pri.jpg",
+      "publishedAt": "2025-10-17T14:25:29Z",
+      "url": "https://www.dallasfed.org/research/swe/2025/swe2515",
+      "source": "Dallasfed.org",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "3b0fe82c70070b00dc8e96fc4a9e29e346db64d9": {
+      "id": "3b0fe82c70070b00dc8e96fc4a9e29e346db64d9",
+      "title": "Amex Earnings Top Estimates as Platinum Card Demand Surges - Bloomberg.com",
+      "summary": "American Express Co. reported earnings that beat expectations after unveiling the long-anticipated Platinum credit card refresh last month.",
+      "cover": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0j51A8TOe.c/v0/1200x800.jpg",
+      "publishedAt": "2025-10-17T13:43:26Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-17/amex-earnings-top-estimates-as-platinum-card-demand-surges",
+      "source": "Bloomberg",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "81721067d839b2bbd4527ff65f907517bc968525": {
+      "id": "81721067d839b2bbd4527ff65f907517bc968525",
+      "title": "Carmakers gear up for chip battle after China curbs Nexperia exports - Financial Times",
+      "summary": "Industry warns of disruption to European production following Beijing’s retaliation for Dutch government’s seizure",
+      "cover": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b8e50c9-0b21-4cdf-a4b1-9e8773080e1c.jpg?source=next-barrier-page",
+      "publishedAt": "2025-10-17T13:04:47Z",
+      "url": "https://www.ft.com/content/91304da5-6537-4f80-955a-6cb1df05cbc8",
+      "source": "Financial Times",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "0124f51b75cebb335feb96146533b63dc7b88e35": {
+      "id": "0124f51b75cebb335feb96146533b63dc7b88e35",
+      "title": "REVEL IN THE JOY OF DRIVING: THE 2026 LEXUS GX - Lexus USA Newsroom",
+      "summary": "PLANO, Texas (Oct. 17, 2025) – The 2026 Lexus GX carries over from the prior model year and continues to inspire customers to pursue their urge to travel, take an unpaved path, and revel in the joy of driving. The GX brings intuitive technology, thoughtful in…",
+      "cover": "https://lexus-cms-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/10/2026_Lexus_GX_Overtrail_NoriGreen_17-1000x600.jpg",
+      "publishedAt": "2025-10-17T13:02:28Z",
+      "url": "https://pressroom.lexus.com/revel-in-the-joy-of-driving-the-2026-lexus-gx/",
+      "source": "Lexus.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "2269afb8003c7c420becf2b9c1301590fb4d24a5": {
+      "id": "2269afb8003c7c420becf2b9c1301590fb4d24a5",
+      "title": "FDA names 9 first recipients of 1- to 2-month priority review vouchers - Fierce Biotech",
+      "summary": "The FDA has handed out the first nine national priori | The FDA has handed out the first nine national priority vouchers, positioning companies including Merck KGaA, Regeneron and Sanofi to complete the approval process in one to two months.",
+      "cover": "https://qtxasset.com/quartz/qcloud5/media/image/Accelerated%20path.jpg?VersionId=lJQfdCM0nmGVOF5qAM9QtCPapKkLxucc",
+      "publishedAt": "2025-10-17T12:26:34Z",
+      "url": "https://www.fiercebiotech.com/biotech/fda-names-regeneron-and-sanofi-among-first-recipients-1-2-month-priority-review-vouchers",
+      "source": "FierceBiotech",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "37429f188473a95a602dc64b690e683a0088905d": {
+      "id": "37429f188473a95a602dc64b690e683a0088905d",
+      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks - BleepingComputer",
+      "summary": "Internet security nonprofit Shadowserver Foundation has found more than 266,000 F5 BIG-IP instances exposed online after the security breach disclosed by cybersecurity company F5 this week.",
+      "cover": "https://www.bleepstatic.com/content/hl-images/2025/10/15/F5_02.png",
+      "publishedAt": "2025-10-17T12:16:23Z",
+      "url": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
+      "source": "BleepingComputer",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "3bb267a57ec12b01945351522cd8b5af720cd18b": {
+      "id": "3bb267a57ec12b01945351522cd8b5af720cd18b",
+      "title": "Eli Lilly Makes A Bold Claim For Its Biggest Cancer Drug - Investor's Business Daily",
+      "summary": "Eli Lilly said Friday a combo using Verzenio cut the risk of death by nearly 16% over two years for breast cancer patients.",
+      "cover": "https://www.investors.com/wp-content/uploads/2021/03/Stock-Lilly-HQ9-shutt.jpg",
+      "publishedAt": "2025-10-17T12:00:00Z",
+      "url": "https://www.investors.com/news/technology/eli-lilly-verzenio-endocrine-therapy-breast-cancer/",
+      "source": "Investor's Business Daily",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "7c277e56d1fb07c785bb9ff52648461a859c9f83": {
+      "id": "7c277e56d1fb07c785bb9ff52648461a859c9f83",
+      "title": "Crypto stocks trade lower amid bitcoin liquidations, broader market sell-offs - report - Seeking Alpha",
+      "summary": "Crypto-linked stocks were trading lower pre-market amid continued bitcoin liquidations and a sell-off in the broader markets, Bloomberg News reported on Friday.",
+      "cover": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1294303261/image_1294303261.jpg?io=getty-c-w750",
+      "publishedAt": "2025-10-17T11:51:54Z",
+      "url": "https://seekingalpha.com/news/4505165-crypto-stocks-trade-lower-amid-bitcoin-liquidations-broader-market-sell-offs---report",
+      "source": "Seeking Alpha",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "896bb9835b8ab1263ea2910dd8b13baed1f42da3": {
+      "id": "896bb9835b8ab1263ea2910dd8b13baed1f42da3",
+      "title": "Small businesses are being crushed by Trump's tariffs, and economists say it's a warning for the economy - CNBC",
+      "summary": "Small businesses are struggling under President Trump's global trade war, with some warning they may have to close their companies if consumer demand falls.",
+      "cover": "https://image.cnbcfm.com/api/v1/image/108138952-1746037138118-gettyimages-2212780565-ah704320_wignestv.jpeg?v=1746037162&w=1920&h=1080",
+      "publishedAt": "2025-10-17T11:00:01Z",
+      "url": "https://www.cnbc.com/2025/10/17/how-much-trump-tariffs-are-costing-small-businesses.html",
+      "source": "CNBC",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "8fa9ce199773a4ddfd3a32044ca033a3dec5ac62": {
+      "id": "8fa9ce199773a4ddfd3a32044ca033a3dec5ac62",
+      "title": "Is AI really making electricity bills higher? Here’s what the experts say - CNN",
+      "summary": "Lindsey Martin’s electricity bill reached a record-high $314 in July, she said in a TikTok. In the video’s more than 4,000 comments, many users reported similar power-bill spikes.",
+      "cover": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-07t144959z-1133835741-rc2d2ga4tzvt-rtrmadp-3-usa-energy.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-17T10:30:52Z",
+      "url": "https://www.cnn.com/2025/10/17/tech/electricity-bill-price-increase-ai-data-centers",
+      "source": "CNN",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "a9dd66b580ae6f6a5e477d5d8c9d95c762bfb3b2": {
+      "id": "a9dd66b580ae6f6a5e477d5d8c9d95c762bfb3b2",
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025 - European Medicines Agency",
+      "summary": "Two new medicines recommended for approval; another eight medicines recommended for extension of their therapeutic indications",
+      "cover": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2023-11/Web%20image_CHMP_standard_square.png.webp?itok=IknKx9RN",
+      "publishedAt": "2025-10-17T10:00:00Z",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025",
+      "source": "Europa.eu",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "6d2e20cb4eb9e2072135d4d8f1b0260a9b99fb3a": {
+      "id": "6d2e20cb4eb9e2072135d4d8f1b0260a9b99fb3a",
+      "title": "COLA Increase 2026 – Check New Amount, Eligibility & Payment Dates - theboronewspaper.com",
+      "summary": "The COLA Increase 2026 for Social Security and SSI beneficiaries will see a 2.7% increase, offering a moderate boost to monthly income. The change, beginning",
+      "cover": "https://theboronewspaper.com/wp-content/uploads/2025/10/cola-increase-2026.webp",
+      "publishedAt": "2025-10-17T09:49:57Z",
+      "url": "https://theboronewspaper.com/cola-increase-2026-new-amount-eligibility/",
+      "source": "Theboronewspaper.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "b841835417bc2bbdb8e90af11186856922c7cdb3": {
+      "id": "b841835417bc2bbdb8e90af11186856922c7cdb3",
+      "title": "Oil Prices Dip as Trump-Putin Summit Looms - Crude Oil Prices Today | OilPrice.com",
+      "summary": "Crude oil prices are set for a weekly decline as a potential Trump-Putin summit raises concerns about increased Russian oil exports and a looming supply glut, further pressured by rising U.S. inventories and U.S.-China trade tensions.",
+      "cover": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-10-17_k4dzutrvgx.jpg",
+      "publishedAt": "2025-10-17T06:40:01Z",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Dip-as-Trump-Putin-Summit-Looms.html",
+      "source": "OilPrice.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "42fcd70a4cebeb4118cd06cce5ce5781e33f5260": {
+      "id": "42fcd70a4cebeb4118cd06cce5ce5781e33f5260",
+      "title": "NVDA, AVGO, MU: Chip Stocks Gain on TSMC’s Rosy Outlook and New AI Deals - TipRanks",
+      "summary": "Semiconductor stocks edged higher on Thursday after Taiwan Semiconductor Manufacturing Co. ($TSM) reported strong quarterly results and lifted its 2025 outlook, cit...",
+      "cover": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2216392613-750x406.jpg",
+      "publishedAt": "2025-10-17T04:39:33Z",
+      "url": "https://www.tipranks.com/news/nvda-avgo-mu-chip-stocks-gain-on-tsmcs-rosy-outlook-and-new-ai-deals",
+      "source": "Tipranks.com",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "24c244e1f541b05d0666b0b978480f526895233f": {
+      "id": "24c244e1f541b05d0666b0b978480f526895233f",
+      "title": "Study: Tariffs to cost companies $1.2T this year, mostly hitting consumers - Axios",
+      "summary": "S&P Global said its estimate of additional expenses for companies is likely conservative.",
+      "cover": "https://images.axios.com/X2j3_RbFA6fdAg0mVPRmkDmgdnI=/0x0:6000x3375/1366x768/2025/10/16/1760643338883.jpeg",
+      "publishedAt": "2025-10-17T02:22:09Z",
+      "url": "https://www.axios.com/2025/10/16/trump-tariffs-cost-china",
+      "source": "Axios",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "40a459e3d42c4dd265b386247ad76dc564d0df5a": {
+      "id": "40a459e3d42c4dd265b386247ad76dc564d0df5a",
+      "title": "MacKenzie Scott just gave this HBCU its largest gift ever — again - The Washington Post",
+      "summary": "MacKenzie Scott donated $63 million to Morgan State University, topping her previous record donation to the school of $40 million.",
+      "cover": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5QTOVSK3QI6XF5WJ247OL7UNM_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-10-17T02:00:07Z",
+      "url": "https://www.washingtonpost.com/education/2025/10/16/morgan-state-mackenzie-scott-donation/",
+      "source": "The Washington Post",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    },
+    "513d26a86f121e55dc296686d052982155717760": {
+      "id": "513d26a86f121e55dc296686d052982155717760",
+      "title": "Prince Andrew gives up royal titles including Duke of York after 'discussion with King' - BBC",
+      "summary": "In a statement, the prince says: \"The continued accusations about me distract from the work of His Majesty and the Royal Family.\"",
+      "cover": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d8a/live/2e777cd0-ab88-11f0-ba75-093eca1ac29b.jpg",
+      "publishedAt": "2025-10-17T18:01:44Z",
+      "url": "https://www.bbc.com/news/live/cvgw31y75ywt",
+      "source": "BBC News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "85a33924cda1ae0c11dbe88e61c8996451bb4b38": {
+      "id": "85a33924cda1ae0c11dbe88e61c8996451bb4b38",
+      "title": "NASA’s next Moonship reaches last stop before launch pad - Ars Technica",
+      "summary": "Preparations for the Artemis II mission continue despite the federal government shutdown.",
+      "cover": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-1152x648.jpg",
+      "publishedAt": "2025-10-17T16:54:32Z",
+      "url": "https://arstechnica.com/space/2025/10/nasas-next-moonship-reaches-last-stop-before-launch-pad/",
+      "source": "Ars Technica",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "e01db2802b19a9e0008018a7de96f7aedb6f42e9": {
+      "id": "e01db2802b19a9e0008018a7de96f7aedb6f42e9",
+      "title": "SpaceX posts Starship booster feat that’s so nutty, it doesn’t even look real - teslarati",
+      "summary": "The Super Heavy booster's feat was so impressive that the whole maneuver almost looked like it was AI-generated.",
+      "cover": "https://www.teslarati.com/wp-content/uploads/2025/10/spacex-starship-super-heavy-hover-1000x600.jpeg",
+      "publishedAt": "2025-10-17T14:12:48Z",
+      "url": "https://www.teslarati.com/spacex-posts-starship-booster-feat-doesnt-look-real/",
+      "source": "Teslarati",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "6f07bae7c07d726e47227f843b0d46eb4cd0c540": {
+      "id": "6f07bae7c07d726e47227f843b0d46eb4cd0c540",
+      "title": "The Fastest Growing Sport in the US Comes With a Sharp Risk to Your Face - Gizmodo",
+      "summary": "Pickleball is accessible and fun, but players are ending up with broken eye sockets, detached retinas, and other eye-related injuries.",
+      "cover": "https://gizmodo.com/app/uploads/2025/10/pickleball-1200x675.jpg",
+      "publishedAt": "2025-10-17T12:51:33Z",
+      "url": "https://gizmodo.com/supposedly-safe-pickleball-is-becoming-a-contact-sport-for-your-face-2000673356",
+      "source": "Gizmodo.com",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "aca209392eb4f2a2d9855a14baaae8ceafd9bd09": {
+      "id": "aca209392eb4f2a2d9855a14baaae8ceafd9bd09",
+      "title": "This hormone condition affects millions of women but is often misdiagnosed - The Washington Post",
+      "summary": "Polycystic ovary syndrome affects millions of women worldwide, causing reproductive and metabolic issues, but often goes misdiagnosed due to lack of awareness and funding.",
+      "cover": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7XDTZRGV3YI6ZPQXFBQWJF2MKQ.jpg&w=1440",
+      "publishedAt": "2025-10-17T10:01:48Z",
+      "url": "https://www.washingtonpost.com/health/2025/10/17/pcos-misdiagnosis-treatment-symptoms/",
+      "source": "The Washington Post",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "8604a3a0c72ba2249df2c93c1eee4fe805dedb3d": {
+      "id": "8604a3a0c72ba2249df2c93c1eee4fe805dedb3d",
+      "title": "How to see Comet C/2025 R2 (SWAN) shine in the October sky - Space",
+      "summary": "Comet C/2025 R2 (SWAN) will make a close flyby of Earth on Oct. 21.",
+      "cover": "https://cdn.mos.cms.futurecdn.net/FRuTA4jKjt2GjJBhePVaBJ-1920-80.jpg",
+      "publishedAt": "2025-10-17T10:00:00Z",
+      "url": "https://www.space.com/stargazing/how-to-see-comet-c2025-r2-swan-shine-in-the-october-sky-2025",
+      "source": "Space.com",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "ea3b1b5ac5517368bd9f48d5623877a1426af7c9": {
+      "id": "ea3b1b5ac5517368bd9f48d5623877a1426af7c9",
+      "title": "First injection to stop HIV approved - BBC",
+      "summary": "The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.",
+      "cover": "https://ichef.bbci.co.uk/news/1024/branded_news/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg",
+      "publishedAt": "2025-10-17T08:18:39Z",
+      "url": "https://www.bbc.com/news/articles/c803egy217xo",
+      "source": "BBC News",
+      "categories": [
+        "world",
+        "news"
+      ],
+      "primaryCategory": "world"
+    },
+    "ac9de81e226d57c0da3bc4580654aa158c293311": {
+      "id": "ac9de81e226d57c0da3bc4580654aa158c293311",
+      "title": "After Stellantis dumps Canada for $13 billion move to U.S., Ontario premier urges fight back against 'real piece of work' Trump - Fortune",
+      "summary": "Ontario Premier Doug Ford blamed Trump for the company's decision to shift production of the SUV from Brampton, Ontario, to Illinois.",
+      "cover": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25288795600580-e1760633075555.jpg?resize=1200,600",
+      "publishedAt": "2025-10-16T16:46:00Z",
+      "url": "https://fortune.com/2025/10/16/stellantis-leaves-brampton-ontario-canada-for-illinois-doug-ford-trump/",
+      "source": "Fortune",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "primaryCategory": "business"
+    }
+  },
+  "commentsDB": {}
+}

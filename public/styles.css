@@ -1,0 +1,647 @@
+/* ==========================================
+   今日洋闻 - 样式表
+   ========================================== */
+
+/* ========== CSS 变量定义 ========== */
+.root {
+  --bg: #f5f7fb;           /* 页面背景色 */
+  --card: #ffffff;         /* 卡片背景色 */
+  --accent: #e60000;       /* 主题色（红色） */
+  --muted: #888;           /* 灰色文本 */
+  --max-width: 1200px;     /* 最大内容宽度 */
+}
+
+/* ========== 全局样式 ========== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  background: var(--bg);
+}
+/* ========== 顶部导航栏 ========== */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;                              /* 高于页面内容，低于弹窗（弹窗使用 1200） */
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  background-color: #0f1724;                  /* 深色背景 */
+  color: #f8fafc;                             /* 浅色文字 */
+  backdrop-filter: none;                      /* 移除模糊效果 */
+  box-shadow: 0 2px 12px rgba(2,6,23,0.6);
+}
+
+/* 品牌标识 */
+.brand {
+  font-weight: 800;
+  color: var(--accent);
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.brand:focus {
+  outline: 2px solid rgba(255,255,255,0.12);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 搜索框 */
+.search {
+  display: flex;
+  gap: 8px;
+}
+
+.search input {
+  width: 36vw;
+  max-width: 420px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: inherit;
+}
+
+.search input::placeholder {
+  color: rgba(248,250,252,0.6);
+}
+
+.search button {
+  padding: 8px 12px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* ========== 分类标签栏 ========== */
+.tabs {
+  display: flex;
+  gap: 10px;
+  overflow: auto;
+  padding: 10px 16px;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+.tabs .tab {
+  padding: 6px 12px;
+  border-radius: 16px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tabs .tab.active {
+  background: #e60000;
+  color: #fff;
+  border-color: #e60000;
+}
+
+.tabs .tab:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.06);
+}
+/* ========== 主布局 ========== */
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) 320px;   /* 主内容区 + 侧边栏(320px) */
+  gap: 24px;
+  padding: 20px;
+  max-width: var(--max-width);
+  margin: 18px auto;
+}
+
+/* 新闻列表容器 */
+.feed {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* 确保辅助元素（空状态/加载/没有更多）固定在主内容列
+   避免创建隐式网格单元格而将侧边栏推到下方 */
+.layout > #feed,
+.layout > .feed,
+.layout > #feedEmpty,
+.layout > #loader,
+.layout > #noMore {
+  grid-column: 1 / 2;
+}
+
+/* 确保侧边栏始终从第一行开始（右上角）
+   防止第一列的辅助元素将其推到下方 */
+.layout > .sidebar {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+  align-self: start;
+}
+
+/* ========== 新闻卡片 ========== */
+.card {
+  display: grid;
+  grid-template-columns: 180px minmax(0,1fr);   /* 封面图(180px) + 内容区 */
+  gap: 16px;
+  padding: 14px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  background: var(--card);
+  background-color: rgba(255,255,255,1);
+}
+
+/* 文章封面图 */
+.card .cover {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 10px;
+  background: #f6f6f6;
+}
+
+/* 文章标题 */
+.card .title {
+  margin: 0;
+  font-size: 18px;
+}
+
+/* 文章摘要 */
+.card .summary {
+  margin: 6px 0 10px;
+  color: #555;
+}
+
+/* 文章信息行（时间、操作按钮） */
+.card .info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #888;
+}
+
+/* 卡片操作按钮组 */
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card-actions .comment-btn {
+  border: 1px solid #eee;
+  background: #fff;
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.card-actions .comment-btn:hover {
+  background: #f5f5f5;
+}
+
+/* 分类标签 */
+.card .cat {
+  display: inline-block;
+  font-size: 12px;
+  color: #fff;
+  background: #999;
+  padding: 4px 8px;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+
+/* ========== 分类标签颜色 ========== */
+.card .cat.tech     { background: #0070f3; }   /* 科技 - 蓝色 */
+.card .cat.business { background: #ff7a00; }   /* 商业 - 橙色 */
+.card .cat.world    { background: #0a9d58; }   /* 国际 - 绿色 */
+.card .cat.sports   { background: #e91e63; }   /* 体育 - 粉色 */
+.card .cat.news     { background: #6a5acd; }   /* 综合 - 紫色 */
+
+/* ========== 侧边栏 ========== */
+.sidebar {
+  position: sticky;
+  top: 80px;
+  height: calc(100vh - 110px);   /* 视口高度减去顶部间距 */
+  overflow: auto;
+}
+
+/* 热榜列表 */
+.trending {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trending li {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* 热榜单项 */
+.trend-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+/* 热榜链接 */
+.trend-link {
+  flex: 1;
+  color: inherit;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.trend-item:hover {
+  background: linear-gradient(90deg, rgba(230,0,0,0.03), rgba(0,0,0,0.02));   /* 悬停渐变背景 */
+}
+
+/* 热榜操作按钮区 */
+.trend-actions {
+  margin-left: 8px;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+/* 点赞按钮 */
+.trend-like {
+  background: transparent;
+  border: 1px solid #eee;
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #e60000;
+}
+
+.trend-like .trend-likes {
+  margin-left: 6px;
+  color: #333;
+}
+
+/* 已点赞状态 */
+.trend-like.liked {
+  background: #e60000;
+  color: #fff;
+  border-color: #e60000;
+}
+
+/* ========== 页脚 ========== */
+.footer {
+  padding: 20px;
+  text-align: center;
+  color: #888;
+}
+
+/* ========== 辅助元素 ========== */
+/* 空状态提示 */
+.empty {
+  padding: 16px;
+  color: #999;
+  text-align: center;
+}
+
+/* 用户信息区 */
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.user-info button {
+  background: #e60000;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.user-info button:hover {
+  background: #c20000;
+}
+
+/* ========== 卡片交互效果 ========== */
+.card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-2px);   /* 悬停上浮2px */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* 占位符图片 */
+.cover.placeholder {
+  background: linear-gradient(90deg, #f2f2f2, #ececec, #f2f2f2);
+  height: 120px;
+}
+
+/* 加载动画 */
+.loader {
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+}
+
+/* 旋转加载图标 */
+.spinner {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 4px solid rgba(0,0,0,0.08);
+  border-top-color: var(--accent);   /* 顶部边框使用主题色 */
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* 没有更多内容提示 */
+.no-more {
+  padding: 12px;
+  text-align: center;
+  color: var(--muted);
+}
+
+/* ========== 文章详情模态框 ========== */
+.modal {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1200;
+}
+
+/* 模态框背景遮罩 */
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.45);   /* 半透明黑色背景 */
+  z-index: 1200;
+}
+
+/* 模态框内容区 */
+.modal-content {
+  position: relative;
+  background-color: #ffffff;
+  color: #111;
+  z-index: 1201;
+  width: min(900px, 95vw);       /* 最大宽度900px，移动端占95%视口宽度 */
+  max-height: 90vh;
+  overflow: auto;
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.25);
+}
+
+/* 关闭按钮 */
+.modal-close {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  border: none;
+  background: rgba(255,255,255,0.95);
+  font-size: 20px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  z-index: 1203;
+}
+
+/* 文章封面图 */
+.modal-cover {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #f6f6f6;
+  margin-bottom: 12px;
+}
+
+/* 文章元信息 */
+.modal-meta {
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+/* 文章摘要 */
+.modal-summary {
+  color: #444;
+}
+
+/* 文章操作按钮区 */
+.modal-actions {
+  margin: 12px 0;
+}
+
+/* ========== 按钮样式 ========== */
+.btn {
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn.primary {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+/* ========== 评论区 ========== */
+.comments-section {
+  margin-top: 18px;
+}
+
+/* 评论列表 */
+.comment-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* 单条评论 */
+.comment-item {
+  padding: 8px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+/* 评论元信息（用户名、时间） */
+.comment-meta {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+/* 评论正文 */
+.comment-text {
+  white-space: pre-wrap;   /* 保留换行和空格 */
+  color: #222;
+}
+
+/* 评论输入表单 - 吸附在模态框底部 */
+.comment-form {
+  display: flex;
+  gap: 8px;
+  align-items: flex-end;
+  margin-top: 8px;
+  position: sticky;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(255,255,255,0.95));
+  padding: 10px 0 12px;
+  z-index: 1225;
+  border-top: 1px solid #f0f0f0;
+}
+
+.comment-form textarea {
+  flex: 1;
+  min-height: 64px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
+
+/* 评论操作按钮区 */
+.comment-actions {
+  display: flex;
+  align-items: center;
+}
+
+.comment-actions .btn.primary {
+  padding: 10px 14px;
+  font-weight: 600;
+  background: var(--accent);
+  color: #000;                      /* 使用深色文字确保对比度 */
+  border-color: var(--accent);
+  border-radius: 8px;
+}
+
+/* 确保按钮在主题色背景上有足够对比度 */
+.comment-actions .btn.primary,
+.comment-actions .btn.primary:disabled {
+  color: rgba(0,0,0,0.9);
+}
+
+.comment-actions .btn.primary:hover {
+  filter: brightness(0.95);         /* 悬停时略微变暗 */
+}
+
+/* 确保模态框底部有足够内边距，防止评论表单被裁剪 */
+.modal-content {
+  padding-bottom: 92px;
+}
+
+/* ========== 文章详情两栏布局 ========== */
+/* 左侧文章内容 + 右侧评论列 */
+.article-detail {
+  display: flex;
+  gap: 18px;
+}
+
+/* 文章主体内容区 */
+.article-main {
+  flex: 1;
+  min-width: 0;
+}
+
+/* 评论列（右侧固定宽度） */
+.comments-column {
+  width: 320px;
+  max-height: 70vh;
+  overflow: auto;
+  padding-left: 12px;
+  border-left: 1px solid #f0f0f0;
+}
+
+.comments-column h4 {
+  margin-top: 0;
+}
+
+.comment-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.comment-list .comment-item {
+  margin: 0;
+}
+
+/* ========== 响应式设计 ========== */
+/* 移动端：评论按钮全宽显示 */
+@media (max-width: 520px) {
+  .comment-actions {
+    justify-content: center;
+  }
+  .comment-actions .btn.primary {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+/* 中等屏幕：文章详情改为单栏布局 */
+@media (max-width: 900px) {
+  .article-detail {
+    flex-direction: column;
+  }
+  .comments-column {
+    width: 100%;
+    max-height: 40vh;
+    border-left: none;
+    border-top: 1px solid #f0f0f0;
+  }
+}
+
+/* ========== 回到顶部按钮 ========== */
+#backToTop {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 1100;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 24px;
+  background: #0f1724;
+  color: #fff;
+  border: none;
+  box-shadow: 0 6px 18px rgba(2,6,23,0.5);
+  cursor: pointer;
+}
+
+#backToTop:hover {
+  filter: brightness(1.05);
+}
+
+

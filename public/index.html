@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>今日洋闻</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+
+  <body>
+    <!-- 顶部导航栏 -->
+    <header class="topbar">
+      <!-- 品牌标识（可点击返回综合页） -->
+      <div id="brand" class="brand" role="button" tabindex="0">
+        今日洋闻
+      </div>
+
+      <!-- 搜索表单 -->
+      <form id="searchForm" class="search">
+        <input id="q" placeholder="搜索热点 / 话题 / 文章" />
+        <button type="submit">搜索</button>
+      </form>
+
+      <!-- 用户信息区域（登录/注册/退出） -->
+      <div id="userInfo" class="user-info"></div>
+    </header>
+
+    <!-- 分类标签栏 -->
+    <nav id="tabs" class="tabs"></nav>
+
+    <!-- 主内容区域 -->
+    <main class="layout">
+      <!-- 新闻列表容器 -->
+      <section class="feed" id="feed"></section>
+
+      <!-- 空状态提示 -->
+      <div id="feedEmpty" class="empty" style="display:none;">
+        暂无数据
+      </div>
+
+      <!-- 加载动画 -->
+      <div id="loader" class="loader" style="display:none;" aria-hidden="true">
+        <div class="spinner"></div>
+      </div>
+
+      <!-- 没有更多提示 -->
+      <div id="noMore" class="no-more" style="display:none;">
+        没有更多了
+      </div>
+
+      <!-- 右侧边栏：热榜 -->
+      <aside class="sidebar">
+        <h3>热榜</h3>
+        <ul id="trending" class="trending"></ul>
+        <div id="trendingEmpty" class="empty" style="display:none;">
+          暂无热榜
+        </div>
+      </aside>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+      © 2025 今日洋闻
+    </footer>
+
+    <!-- 新闻卡片模板 -->
+    <template id="cardTpl">
+      <article class="card" data-id="">
+        <!-- 文章封面图 -->
+        <img class="cover" />
+
+        <!-- 文章元信息 -->
+        <div class="meta">
+          <!-- 分类标签 -->
+          <div class="cat"> </div>
+
+          <!-- 文章标题 -->
+          <h4 class="title"></h4>
+
+          <!-- 文章摘要 -->
+          <p class="summary"></p>
+
+          <!-- 底部信息栏 -->
+          <div class="info">
+            <!-- 发布时间 -->
+            <span class="time"></span>
+
+            <!-- 操作按钮组 -->
+            <div class="card-actions">
+              <!-- 点赞按钮 -->
+              <button class="like">
+                ❤ <span class="likes">0</span>
+              </button>
+
+              <!-- 评论按钮 -->
+              <button class="comment-btn">💬</button>
+            </div>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <!-- 文章详情弹窗 -->
+    <div id="articleModal" class="modal" style="display:none;" aria-hidden="true">
+      <!-- 背景遮罩 -->
+      <div class="modal-backdrop"></div>
+
+      <!-- 弹窗内容 -->
+      <div class="modal-content" role="dialog" aria-modal="true">
+        <!-- 关闭按钮 -->
+        <button id="modalClose" class="modal-close">×</button>
+
+        <!-- 文章详情布局 -->
+        <div class="article-detail">
+          <!-- 左侧：文章主体 -->
+          <div class="article-main">
+            <!-- 文章封面 -->
+            <img id="modalCover" class="modal-cover" />
+
+            <!-- 文章标题 -->
+            <h2 id="modalTitle"></h2>
+
+            <!-- 文章元信息（来源、时间、点赞数） -->
+            <div id="modalMeta" class="modal-meta"></div>
+
+            <!-- 文章摘要 -->
+            <p id="modalSummary" class="modal-summary"></p>
+
+            <!-- 操作按钮区 -->
+            <div class="modal-actions">
+              <!-- 查看原文链接 -->
+              <a id="openOriginal" class="btn" target="_blank">
+                查看原文
+              </a>
+
+              <!-- 登录提示区域 -->
+              <div id="modalAuth" class="modal-auth" style="display:none;margin-left:12px"></div>
+            </div>
+          </div>
+
+          <!-- 右侧：评论区 -->
+          <aside class="comments-column">
+            <h4>评论</h4>
+
+            <!-- 评论列表 -->
+            <ul id="commentList" class="comment-list"></ul>
+
+            <!-- 评论输入表单 -->
+            <div class="comment-form">
+              <textarea 
+                id="commentText" 
+                placeholder="写下你的评论..." 
+                rows="3"
+              ></textarea>
+
+              <div class="comment-actions">
+                <button id="submitComment" class="btn primary">
+                  发表评论
+                </button>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+
+    <!-- JavaScript 入口 -->
+    <script src="/app.js" type="module"></script>
+
+    <!-- 回到顶部按钮 -->
+    <button id="backToTop" title="回到顶部" aria-label="回到顶部">
+      ⬆
+    </button>
+  </body>
+</html>
+
+
